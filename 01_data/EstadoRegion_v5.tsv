@@ -1,0 +1,33 @@
+Estado	Region_7	Region_5	Region_3	Region_4	1999_Inegi	CEEY	Regiones_operativas	Om2_A	Om2_B	Om2_C
+Aguascalientes	CN	TO	N	C	C	N	O	B	B2	C
+San Luis Potosi	CN	TO	N	C	C	N	NO	B	B2	C
+Queretaro	CN	CS	C	C	C	C	O	B	B2	C
+Guanajuato	CN	TO	C	C	C	C	O	B	B2	C
+Zacatecas	CN	TO	N	C	N	N	O	B	B2	C
+Mexico City	CS	CS	C	C	C	C	C	B	C	C
+Hidalgo	CS	CS	C	C	C	C	C	B	B2	C
+Puebla	CS	CS	C	C	C	C	C	B	B2	C
+State of Mexico	CS	CS	C	C	C	C	C	B	C	C
+Tlaxcala	CS	CS	C	C	C	C	C	B	B2	C
+Morelos	CS	CS	C	C	C	C	C	B	B2	C
+Nuevo Leon	NE	TO	N	NE	N	N	NE	B	B2	C
+Tamaulipas	NE	TO	N	NE	N	N	NE	B	B2	C
+Coahuila	NE	N	N	NE	N	N	NE	B	B2	C
+Baja California	NW	N	N	NW	N	N	NW	A	A	A
+Baja California Sur	NW	N	N	NW	N	N	NW	A	A	A
+Sonora	NW	N	N	NW	N	N	NW	B	B2	C
+Chihuahua	NW	N	N	NW	N	N	NW	B	B2	C
+Sinaloa	NW	N	N	NW	N	N	NW	A	A	A
+Durango	NW	N	N	C	N	N	NE	B	B2	C
+Campeche	SE	SE	S	S	S	S	SE	A	A	B
+Yucatan	SE	SE	S	S	S	S	SE	A	A	B
+Quintana Roo	SE	SE	S	S	S	S	SE	B	B2	C
+Chiapas	S	SE	S	S	S	S	SE	B	B2	C
+Veracruz	S	SE	C	C	S	S	SE	A	A	B
+Guerrero	S	CS	S	S	S	S	C	B	B2	C
+Oaxaca	S	CS	S	S	S	S	SE	A	A	B
+Tabasco	S	CS	S	S	S	S	SE	B	B2	C
+Jalisco	W	TO	C	C	C	C	O	A	A	A
+Michoacan	W	CS	C	C	C	C	O	A	A	A
+Colima	W	TO	C	C	C	C	O	A	A	A
+Nayarit	W	TO	C	C	C	N	O	B	B2	C

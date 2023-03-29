@@ -1,0 +1,807 @@
+Nickname	pango Lineage			Full lineage	Mutations	S:Y 144del	S:R 346	S:K 356	S:K 444	S:V 445	S:G 446	S:N 450	S:L 452	S:N 460	S:F 486	S:F 490	S:R 493	S:S 494	chili pepper
+	BA.1			B.1.1.529.1	S:G446S, S:Q493R, S:142-144del	del					S								LEVEL |
+	BA.1.1			B.1.1.529.1.1	S:R346K	del	K				S								LEVEL ||
+	BA.2			B.1.1.529.2	S:Q493R, S:G446G(rev
+	BA.2.3			B.1.1.529.2.3	ORF1a:A2909V, ORF3a:L140F
+	BA.2.3.2			B.1.1.529.2.3.2	E:S55F
+	BS.1	(BA.2.3.2.1)		B.1.1.529.2.3.2.1	S:G476S, S:R346T, S:L452R, S:N460K, S:R493Q,  S:S640F, S:144del	del	T						R	K			Q		LEVEL ||| |
+	BS.1.1	(BA.2.3.2.1.1)		B.1.1.529.2.3.2.1.1	S:G257V, S:K356T	del	T	T					R	K			Q		LEVEL ||| ||
+	BS.1.2	(BA.2.3.2.1.2)		B.1.1.529.2.3.2.1.2	A13488G, C22851T, S:T430I	del	T						R	K			Q		LEVEL ||| |
+	BA.2.3.16			B.1.1.529.2.3.16	Orf8:A65V
+	BP.1	(BA.2.3.16.1)		B.1.1.529.2.3.16.1	S:R346T, S:R403K, S:L452M, S:A570V, S:Q762E,  S:A852V, S:69-70del, M:S4F		T						M						LEVEL ||
+Basilisk	BA.2.3.20			B.1.1.529.2.3.20	S:M153T, S:N164K, S:H245N, S:G257D, S:K444R,  S:N450D, S:L452M, S:N460K, S:A484T, S:R493Q				R			D	M	K			Q		LEVEL ||| ||
+	CM.1	(BA.2.3.20.1)		B.1.1.529.2.3.20.1	S:N17S				R			D	M	K			Q		LEVEL ||| ||
+	CM.2	(BA.2.3.20.2)		B.1.1.529.2.3.20.2	ORF1a:S2103F				R			D	M	K			Q		LEVEL ||| ||
+	CM.2.1	(BA.2.3.20.2.1)		B.1.1.529.2.3.20.2.1	S:F486S				R			D	M	K	S		Q		LEVEL ||| |||
+	CM.3	(BA.2.3.20.3)		B.1.1.529.2.3.20.3	S:G485D				R			D	M	K			Q		LEVEL ||| ||
+	CM.4	(BA.2.3.20.4)		B.1.1.529.2.3.20.4	A13904G, C26822T, ORF1b:D146G				R			D	M	K			Q		LEVEL ||| ||
+	CM.4.1	(BA.2.3.20.4.1)		B.1.1.529.2.3.20.4.1	C22522T, S:K478R				R			D	M	K			Q		LEVEL ||| ||
+	CM.5	(BA.2.3.20.5)		B.1.1.529.2.3.20.5	T2C, C10802T				R			D	M	K			Q		LEVEL ||| ||
+	CM.5.1	(BA.2.3.20.5.1)		B.1.1.529.2.3.20.5.1	A23586G, S:Q675R				R			D	M	K			Q		LEVEL ||| ||
+	CM.5.2	(BA.2.3.20.5.2)		B.1.1.529.2.3.20.5.2	C10802T, S:G485D				R			D	M	K			Q		LEVEL ||| ||
+	CM.6	(BA.2.3.20.6)		B.1.1.529.2.3.20.6	G354C, ORF1a:G30A				R			D	M	K			Q		LEVEL ||| ||
+	CM.6.1	(BA.2.3.20.6.1)		B.1.1.529.2.3.20.6.1	ORF1a:E750G, ORF1a:T2069I, S:A348S				R			D	M	K			Q		LEVEL ||| ||
+	CM.7	(BA.2.3.20.7)		B.1.1.529.2.3.20.7	S:F486S				R			D	M	K	S		Q		LEVEL ||| |||
+	CM.8	(BA.2.3.20.8)		B.1.1.529.2.3.20.8	S:G446S				R		S	D	M	K			Q		LEVEL ||| |||
+	CM.8.1	(BA.2.3.20.8.1)		B.1.1.529.2.3.20.8.1	ORF1b:P976L, S:F486S				R		S	D	M	K	S		Q		LEVEL ||| ||| |
+	CM.8.1.1	(BA.2.3.20.8.1.1)		B.1.1.529.2.3.20.8.1.1	ORF1b:A975V, S:K147N				R		S	D	M	K	S		Q		LEVEL ||| ||| |
+	CM.8.1.2	(BA.2.3.20.8.1.2)		B.1.1.529.2.3.20.8.1.2	C19185T, C25207T, S:K147I				R		S	D	M	K	S		Q		LEVEL ||| ||| |
+	CM.9	(BA.2.3.20.9)		B.1.1.529.2.3.20.9	S:S256L				R			D	M	K			Q		LEVEL ||| ||
+	CM.10	(BA.2.3.20.10)		B.1.1.529.2.3.20.10	S:K478T(rev, S:V445A				R	A		D	M	K			Q		LEVEL ||| |||
+	CM.11	(BA.2.3.20.11)		B.1.1.529.2.3.20.11	S:R346T, S:F486S		T		R			D	M	K	S		Q		LEVEL ||| ||| |
+	CM.12	(BA.2.3.20.12)		B.1.1.529.2.3.20.12	ORF8:T12I				R			D	M	K			Q		LEVEL ||| ||
+	BA.2.3.21			B.1.1.529.2.3.21	S:P9L, S:R493Q												Q		LEVEL |
+	DD.1	(BA.2.3.21.1)		B.1.1.529.2.3.21.1	S:G213E, S:D339N, S:R346T, S:Y449N, S:N460K,  S:N481K, S:Q493L, S:K1205N S:69-70del, S:Y144del	del	T							K			L		LEVEL |||
+	BA.2.3.22			B.1.1.529.2.3.22	S:W152L, S:L212I, S:R346T, S:N417T, S:F490A,  S:A942S, 		T									A			LEVEL ||
+	BA.2.10			B.1.1.529.2.10	ORF1b:S959P
+	BA.2.10.1			B.1.1.529.2.10.1	S:G798D
+Argus	BJ.1	(BA.2.10.1.1)		B.1.1.529.2.10.1.1	S:V83A, S:H146Q, S:Q183E, S:G213E, S:D339H,  S:R346T, S:L368I, S:V445P, S:G446S, S:V483A,  S:F490V, S:S1003I, S:144del	del	T			P	S					V			LEVEL ||| |
+	BA.2.10.4			B.1.1.529.2.10.4	S:W64R, S:D142G, S:G446S, S:F486P, S:R493Q,  S:S494P, S:P1143L						S				P		Q	P	LEVEL ||| |
+	BA.2.38			B.1.1.529.2.38	S:N417T
+	BA.2.38.1			B.1.1.529.2.38.1	S:S247N, S:Y248S, S:K444N				N										LEVEL |
+	BA.2.38.2			B.1.1.529.2.38.2	ORF1a:N3725S, ORF1a:T1543I, ORF1a:T4355I,  S:F157S. S:K444N				N										LEVEL |
+	BA.2.38.3			B.1.1.529.2.38.3	S:V1264L
+	BH.1	(BA.2.38.3.1)		B.1.1.529.2.38.3.1	ORF1a:F1214I, ORF1a:A3357G S:G446S, S:L452Q, S:Y144del	del					S		Q						LEVEL ||
+	BA.2.38.4			B.1.1.529.2.38.4	S:K147E, S:K444N, S:I692L				N										LEVEL |
+Centaurus	BA.2.75			B.1.1.529.2.75	S:K147E, S:W152R, S:F157L, S:I210V, S:G257S,  S:D339H, S:G446S, S:N460K, S:R493Q						S			K			Q		LEVEL |||
+	BA.2.75.1			B.1.1.529.2.75.1	S:D574V						S			K			Q		LEVEL |||
+	BL.1	(BA.2.75.1.1)		B.1.1.529.2.75.1.1	S:R346T		T				S			K			Q		LEVEL ||| |
+	BL.1.1	(BA.2.75.1.1.1)		B.1.1.529.2.75.1.1.1	S:G614S		T				S			K			Q		LEVEL ||| |
+	BL.1.2	(BA.2.75.1.1.2)		B.1.1.529.2.75.1.1.2	S:G261D, S:V308L		T				S			K			Q		LEVEL ||| |
+	BL.1.3	(BA.2.75.1.1.3)		B.1.1.529.2.75.1.1.3	ORF1b:P2612L, ORF1b:R2613N, S:F490L		T				S			K		L	Q		LEVEL ||| ||
+	BL.1.4	(BA.2.75.1.1.4)		B.1.1.529.2.75.1.1.4	ORF1b:R1430K, S:F490V, ORF7b:S31P		T				S			K		V	Q		LEVEL ||| ||
+	BL.2	(BA.2.75.1.2)		B.1.1.529.2.75.1.2	A26612T, S:R346T		T				S			K			Q		LEVEL ||| |
+	BL.2.1	(BA.2.75.1.2.1)		B.1.1.529.2.75.1.2.1	ORF1b:H604Y, S:K182E		T				S			K			Q		LEVEL ||| |
+	BL.3	(BA.2.75.1.3)		B.1.1.529.2.75.1.3	A26612T, ORF1a:P2685S						S			K			Q		LEVEL |||
+	BL.4	(BA.2.75.1.4)		B.1.1.529.2.75.1.4	ORF7a:P45L, 11224T, 22720G						S			K			Q		LEVEL |||
+	BL.5	(BA.2.75.1.5)		B.1.1.529.2.75.1.5	C27903T, G29540T, A22600T, C28744T S:R346S, ORF8:L4F		S				S			K			Q		LEVEL ||| |
+	BL.6	(BA.2.75.1.6)		B.1.1.529.2.75.1.6	S:R346T, S:V445A		T			A	S			K			Q		LEVEL ||| ||
+Chiron	BA.2.75.2			B.1.1.529.2.75.2	S:R346T, S:F486S, S:D1199N		T				S			K	S		Q		LEVEL ||| ||
+	CA.1	(BA.2.75.2.1)		B.1.1.529.2.75.2.1	ORF1a:S887F, S:L452R		T				S		R	K	S		Q		LEVEL ||| |||
+	CA.2	(BA.2.75.2.2)		B.1.1.529.2.75.2.2	S:S494P		T				S			K	S		Q	P	LEVEL ||| |||
+	CA.3	(BA.2.75.2.3)		B.1.1.529.2.75.2.3	N:M101I, ORF9b:*98S		T				S			K	S		Q		LEVEL ||| ||
+	CA.3.1	(BA.2.75.2.3.1)		B.1.1.529.2.75.2.3.1	S:K444M, S:L452R, N:M101I, ORF9b:*98S		T		M		S		R	K	S		Q		LEVEL ||| ||| |
+	CA.4	(BA.2.75.2.4)		B.1.1.529.2.75.2.4	ORF1a:E995D, S:S486P		T				S			K	P		Q		LEVEL ||| ||
+	CA.5	(BA.2.75.2.5)		B.1.1.529.2.75.2.5	S:A260D, S:Q613H		T				S			K	S		Q		LEVEL ||| ||
+	CA.6	(BA.2.75.2.6)		B.1.1.529.2.75.2.6	ORF1a:Y196H		T				S			K	S		Q		LEVEL ||| ||
+	CA.7	(BA.2.75.2.7)		B.1.1.529.2.75.2.7	ORF1a:L3776I, S:L452R		T				S		R	K	S		Q		LEVEL ||| |||
+	BA.2.75.3			B.1.1.529.2.75.3	ORF1b:V1706I						S			K			Q		LEVEL |||
+	BM.1	(BA.2.75.3.1)		B.1.1.529.2.75.3.1	S:F486S						S			K	S		Q		LEVEL ||| |
+	BM.1.1	(BA.2.75.3.1.1)		B.1.1.529.2.75.3.1.1	S:R346T		T				S			K	S		Q		LEVEL ||| ||
+Mimas	BM.1.1.1	(BA.2.75.3.1.1.1)		B.1.1.529.2.75.3.1.1.1	S:F490S		T				S			K	S	S	Q		LEVEL ||| |||
+	CJ.1	(BM.1.1.1.1)	(BA.2.75.3.1.1.1.1)	B.1.1.529.2.75.3.1.1.1.1	S:S486P		T				S			K	P	S	Q		LEVEL ||| |||
+	CJ.1.1	(BM.1.1.1.1.1)	(BA.2.75.3.1.1.1.1.1)	B.1.1.529.2.75.3.1.1.1.1.1	ORF1a:T1581A, S:V445A		T			A	S			K	P	S	Q		LEVEL ||| ||| |
+	BM.1.1.2	(BA.2.75.3.1.1.2)		B.1.1.529.2.75.3.1.1.2	S:S939F, S:T883I, S:P1079T		T				S			K	S		Q		LEVEL ||| ||
+	BM.1.1.3	(BA.2.75.3.1.1.3)		B.1.1.529.2.75.3.1.1.3	ORF10:A8V		T				S			K	S		Q		LEVEL ||| ||
+	CV.1	(BM.1.1.3.1)	(BA.2.75.3.1.1.3.1)	B.1.1.529.2.75.3.1.1.3.1	ORF1a:V1550A, S:L452R		T				S		R	K	S		Q		LEVEL ||| |||
+	CV.2	(BM.1.1.3.2)	(BA.2.75.3.1.1.3.2)	B.1.1.529.2.75.3.1.1.3.2	ORF1a:G514E, ORF1b:Y1147C, S:S486P		T				S			K	P		Q		LEVEL ||| ||
+	BM.1.1.4	(BA.2.75.3.1.1.4)		B.1.1.529.2.75.3.1.1.4	S:K356T, S:T572I		T	T			S			K	S		Q		LEVEL ||| |||
+	EP.1	(BM.1.1.4.1)	(BA.2.75.3.1.1.4.1)	B.1.1.529.2.75.3.1.1.4.1	ORF1b:V2406I, S:L452R		T	T			S		R	K	S		Q		LEVEL ||| ||| |
+	EP.2	(BM.1.1.4.2)	(BA.2.75.3.1.1.4.2)	B.1.1.529.2.75.3.1.1.4.2	S:S1147L, N:G212S		T	T			S			K	S		Q		LEVEL ||| |||
+	BM.1.1.5	(BA.2.75.3.1.1.5)		B.1.1.529.2.75.3.1.1.5	ORF7b:A15S, S:N185S, S:L452R		T				S		R	K	S		Q		LEVEL ||| |||
+	BM.2	(BA.2.75.3.2)		B.1.1.529.2.75.3.2	S:R346T		T				S			K			Q		LEVEL ||| |
+	BM.2.1	(BA.2.75.3.2.1)		B.1.1.529.2.75.3.2.1	S:F486V		T				S			K	V		Q		LEVEL ||| ||
+	BM.2.2	(BA.2.75.3.2.2)		B.1.1.529.2.75.3.2.2	S:L455S		T				S			K			Q		LEVEL ||| |
+	BM.2.3	(BA.2.75.3.2.3)		B.1.1.529.2.75.3.2.3	S:K97Q, S::F486I		T				S			K	I		Q		LEVEL ||| ||
+	BM.3	(BA.2.75.3.3)		B.1.1.529.2.75.3.3	ORF1b:P1652S						S			K			Q		LEVEL |||
+	BM.4	(BA.2.75.3.4)		B.1.1.529.2.75.3.4	ORF1a:Q1198K						S			K			Q		LEVEL |||
+	BM.4.1	(BA.2.75.3.4.1)		B.1.1.529.2.75.3.4.1	S:F486S						S			K	S		Q		LEVEL ||| |
+	BM.4.1.1	(BA.2.75.3.4.1.1)		B.1.1.529.2.75.3.4.1.1	S:R346T		T				S			K	S		Q		LEVEL ||| ||
+	CH.1	(BM.4.1.1.1)	(BA.2.75.3.4.1.1.1)	B.1.1.529.2.75.3.4.1.1.1	ORF1b:Q2425R, S:K444T		T		T		S			K	S		Q		LEVEL ||| |||
+Orthrus	CH.1.1	(BM.4.1.1.1.1)	(BA.2.75.3.4.1.1.1.1)	B.1.1.529.2.75.3.4.1.1.1.1	S:L452R		T		T		S		R	K	S		Q		LEVEL ||| ||| |
+	CH.1.1.1	(BM.4.1.1.1.1.1)	(BA.2.75.3.4.1.1.1.1.1)	B.1.1.529.2.75.3.4.1.1.1.1.1	ORF1a:A427V, S:N185D		T		T		S		R	K	S		Q		LEVEL ||| ||| |
+	DV.1	(CH.1.1.1.1)	(BA.2.75.3.4.1.1.1.1.1.1)	B.1.1.529.2.75.3.4.1.1.1.1.1.1	S:L176F, ORF3a:A110V		T		T		S		R	K	S		Q		LEVEL ||| ||| |
+	DV.1.1	(CH.1.1.1.1.1)	(BA.2.75.3.4.1.1.1.1.1.1.1)	B.1.1.529.2.75.3.4.1.1.1.1.1.1.1	S:Q613H, N:T265I		T		T		S		R	K	S		Q		LEVEL ||| ||| |
+	DV.2	(CH.1.1.1.2)	(BA.2.75.3.4.1.1.1.1.1.2)	B.1.1.529.2.75.3.4.1.1.1.1.1.2	S:I569V		T		T		S		R	K	S		Q		LEVEL ||| ||| |
+	DV.3	(CH.1.1.1.3)	(BA.2.75.3.4.1.1.1.1.1.3)	B.1.1.529.2.75.3.4.1.1.1.1.1.3	T13560C, ORF1a:E377K		T		T		S		R	K	S		Q		LEVEL ||| ||| |
+	DV.3.1	(CH.1.1.1.3.1)	(BA.2.75.3.4.1.1.1.1.1.3.1)	B.1.1.529.2.75.3.4.1.1.1.1.1.3.1	ORF1b:V839I		T		T		S		R	K	S		Q		LEVEL ||| ||| |
+	DV.4	(CH.1.1.1.4)	(BA.2.75.3.4.1.1.1.1.1.4)	B.1.1.529.2.75.3.4.1.1.1.1.1.4	S:I714V		T		T		S		R	K	S		Q		LEVEL ||| ||| |
+	DV.5	(CH.1.1.1.5)	(BA.2.75.3.4.1.1.1.1.1.5)	B.1.1.529.2.75.3.4.1.1.1.1.1.5	ORF1a:R24C, S:Q613H		T		T		S		R	K	S		Q		LEVEL ||| ||| |
+	CH.1.1.2	(BM.4.1.1.1.1.2)	(BA.2.75.3.4.1.1.1.1.2)	B.1.1.529.2.75.3.4.1.1.1.1.2	T27576C, ORF1a:Y1846C, ORF1a:G2294S, S:T883I		T		T		S		R	K	S		Q		LEVEL ||| ||| |
+	CH.1.1.3	(BM.4.1.1.1.1.3)	(BA.2.75.3.4.1.1.1.1.3)	B.1.1.529.2.75.3.4.1.1.1.1.3	S:S255P		T		T		S		R	K	S		Q		LEVEL ||| ||| |
+	CH.1.1.4	(BM.4.1.1.1.1.4)	(BA.2.75.3.4.1.1.1.1.4)	B.1.1.529.2.75.3.4.1.1.1.1.4	S:H681R		T		T		S		R	K	S		Q		LEVEL ||| ||| |
+	CH.1.1.5	(BM.4.1.1.1.1.5)	(BA.2.75.3.4.1.1.1.1.5)	B.1.1.529.2.75.3.4.1.1.1.1.5	C12781T, T17112C, ORF3a:P104S		T		T		S		R	K	S		Q		LEVEL ||| ||| |
+	CH.1.1.6	(BM.4.1.1.1.1.6)	(BA.2.75.3.4.1.1.1.1.6)	B.1.1.529.2.75.3.4.1.1.1.1.6	ORF1a:K338R, ORF1a:P1786L, S:T732I		T		T		S		R	K	S		Q		LEVEL ||| ||| |
+	CH.1.1.7	(BM.4.1.1.1.1.7)	(BA.2.75.3.4.1.1.1.1.7)	B.1.1.529.2.75.3.4.1.1.1.1.7	ORF1a:F143C		T		T		S		R	K	S		Q		LEVEL ||| ||| |
+	CH.1.1.8	(BM.4.1.1.1.1.8)	(BA.2.75.3.4.1.1.1.1.8)	B.1.1.529.2.75.3.4.1.1.1.1.8	C12412T, S:A846V		T		T		S		R	K	S		Q		LEVEL ||| ||| |
+	CH.1.1.9	(BM.4.1.1.1.1.9)	(BA.2.75.3.4.1.1.1.1.9)	B.1.1.529.2.75.3.4.1.1.1.1.9	G13441A, T28861C, S:I1232V		T		T		S		R	K	S		Q		LEVEL ||| ||| |
+	CH.1.1.10	(BM.4.1.1.1.1.10)	(BA.2.75.3.4.1.1.1.1.10)	B.1.1.529.2.75.3.4.1.1.1.1.10	ORF1a:G442S		T		T		S		R	K	S		Q		LEVEL ||| ||| |
+	CH.1.1.11	(BM.4.1.1.1.1.11)	(BA.2.75.3.4.1.1.1.1.11)	B.1.1.529.2.75.3.4.1.1.1.1.11	ORF1a:A1176T		T		T		S		R	K	S		Q		LEVEL ||| ||| |
+	CH.1.1.12	(BM.4.1.1.1.1.12)	(BA.2.75.3.4.1.1.1.1.12)	B.1.1.529.2.75.3.4.1.1.1.1.12	ORF1a:A486V, S:L858I		T		T		S		R	K	S		Q		LEVEL ||| ||| |
+	CH.1.1.13	(BM.4.1.1.1.1.13)	(BA.2.75.3.4.1.1.1.1.13)	B.1.1.529.2.75.3.4.1.1.1.1.13	ORF3a:S171L		T		T		S		R	K	S		Q		LEVEL ||| ||| |
+	CH.1.1.14	(BM.4.1.1.1.1.14)	(BA.2.75.3.4.1.1.1.1.14)	B.1.1.529.2.75.3.4.1.1.1.1.14	N:T362I		T		T		S		R	K	S		Q		LEVEL ||| ||| |
+	CH.1.1.15	(BM.4.1.1.1.1.15)	(BA.2.75.3.4.1.1.1.1.15)	B.1.1.529.2.75.3.4.1.1.1.1.15	C9940T, S:K182N		T		T		S		R	K	S		Q		LEVEL ||| ||| |
+	CH.1.1.16	(BM.4.1.1.1.1.16)	(BA.2.75.3.4.1.1.1.1.16)	B.1.1.529.2.75.3.4.1.1.1.1.16	C193T, ORF3a:S26L, S:Q613H		T		T		S		R	K	S		Q		LEVEL ||| ||| |
+	CH.1.1.17	(BM.4.1.1.1.1.17)	(BA.2.75.3.4.1.1.1.1.17)	B.1.1.529.2.75.3.4.1.1.1.1.17	C21811T, M:S212G		T		T		S		R	K	S		Q		LEVEL ||| ||| |
+	CH.2	(BM.4.1.1.2)	(BA.2.75.3.4.1.1.2)	B.1.1.529.2.75.3.4.1.1.2	S:Q183H		T				S			K	S		Q		LEVEL ||| ||
+	CH.3	(BM.4.1.1.3)	(BA.2.75.3.4.1.1.3)	B.1.1.529.2.75.3.4.1.1.3	ORF1b:Q2425R, S:S486P		T				S			K	P		Q		LEVEL ||| ||
+	CH.3.1	(BM.4.1.1.3.1)	(BA.2.75.3.4.1.1.3.1)	B.1.1.529.2.75.3.4.1.1.3.1	S:S494P		T				S			K	P		Q	P	LEVEL ||| |||
+	BM.5	(BA.2.75.3.5)		B.1.1.529.2.75.3.5	S:L455S						S			K			Q		LEVEL |||
+	BM.6	(BA.2.75.3.6)		B.1.1.529.2.75.3.6	ORF1a:D2801G, S:G75V, S:L455S, N:L113I						S			K			Q		LEVEL |||
+	BA.2.75.4			B.1.1.529.2.75.4	S:L452R						S		R	K			Q		LEVEL ||| |
+	BR.1	(BA.2.75.4.1)		B.1.1.529.2.75.4.1	S:K444M				M		S		R	K			Q		LEVEL ||| ||
+	BR.1.1	(BA.2.75.4.1.1)		B.1.1.529.2.75.4.1.1	S:T307S				M		S		R	K			Q		LEVEL ||| ||
+	BR.1.2	(BA.2.75.4.1.2)		B.1.1.529.2.75.4.1.2	S:F486S				M		S		R	K	S		Q		LEVEL ||| |||
+	BR.2	(BA.2.75.4.2)		B.1.1.529.2.75.4.2	S:R346T, S:F486I		T				S		R	K	I		Q		LEVEL ||| |||
+Cerastes	BR.2.1	(BA.2.75.4.2.1)		B.1.1.529.2.75.4.2.1	C28093T, ORF8:S67F		T				S		R	K	I		Q		LEVEL ||| |||
+	BR.3	(BA.2.75.4.3)		B.1.1.529.2.75.4.3	ORF1b:T11A, S:R346T		T				S		R	K			Q		LEVEL ||| ||
+	BR.4	(BA.2.75.4.4)		B.1.1.529.2.75.4.4	S:K444T, S:G446G(rev, ORF3a:T32I				T		G		R	K			Q		LEVEL ||| |
+	BR.5	(BA.2.75.4.5)		B.1.1.529.2.75.4.5	ORF1a:K4014R, S:K444T, S:D574V				T		S		R	K			Q		LEVEL ||| ||
+	BA.2.75.5			B.1.1.529.2.75.5	S:K356T			T			S			K			Q		LEVEL ||| |
+Hydra	BN.1	(BA.2.75.5.1)		B.1.1.529.2.75.5.1	S:R346T, S:F490S		T	T			S			K		S	Q		LEVEL ||| |||
+	BN.1.1	(BA.2.75.5.1.1)		B.1.1.529.2.75.5.1.1	S:S494P		T	T			S			K		S	Q	P	LEVEL ||| ||| |
+	BN.1.1.1	(BA.2.75.5.1.1.1)		B.1.1.529.2.75.5.1.1.1	S:N185D		T	T			S			K		S	Q	P	LEVEL ||| ||| |
+	BN.1.2	(BA.2.75.5.1.2)		B.1.1.529.2.75.5.1.2	E:D72G		T	T			S			K		S	Q		LEVEL ||| |||
+	BN.1.2.1	(BA.2.75.5.1.2.1)		B.1.1.529.2.75.5.1.2.1	ORF1b:K1671I, S:T470N		T	T			S			K		S	Q		LEVEL ||| |||
+	BN.1.2.2	(BA.2.75.5.1.2.2)		B.1.1.529.2.75.5.1.2.2	C29546T		T	T			S			K		S	Q		LEVEL ||| |||
+	BN.1.2.3	(BA.2.75.5.1.2.3)		B.1.1.529.2.75.5.1.2.3	C1471T		T	T			S			K		S	Q		LEVEL ||| |||
+	BN.1.2.4	(BA.2.75.5.1.2.4)		B.1.1.529.2.75.5.1.2.4	ORF1b:D1746H		T	T			S			K		S	Q		LEVEL ||| |||
+	BN.1.3	(BA.2.75.5.1.3)		B.1.1.529.2.75.5.1.3	ORF3a:T229I		T	T			S			K		S	Q		LEVEL ||| |||
+	BN.1.3.1	(BA.2.75.5.1.3.1)		B.1.1.529.2.75.5.1.3.1	T4435C, ORF1a:F3486L, ORF1a:M3627I,  NSP5:F223L		T	T			S			K		S	Q		LEVEL ||| |||
+	DS.1	(BN.1.3.1.1)	(BA.2.75.5.1.3.1.1)	B.1.1.529.2.75.5.1.3.1.1	S:F486S, S:R403K		T	T			S			K	S	S	Q		LEVEL ||| ||| |
+	DS.2	(BN.1.3.1.2)	(BA.2.75.5.1.3.1.2)	B.1.1.529.2.75.5.1.3.1.2	ORF1b:H1550Y, S:T572I		T	T			S			K		S	Q		LEVEL ||| |||
+	DS.3	(BN.1.3.1.3)	(BA.2.75.5.1.3.1.3)	B.1.1.529.2.75.5.1.3.1.3	ORF3a:G254V		T	T			S			K		S	Q		LEVEL ||| |||
+	BN.1.3.2	(BA.2.75.5.1.3.2)		B.1.1.529.2.75.5.1.3.2	ORF1a:H110Y, ORF1b:L1783R, S:V445A		T	T		A	S			K		S	Q		LEVEL ||| ||| |
+	BN.1.3.3	(BA.2.75.5.1.3.3)		B.1.1.529.2.75.5.1.3.3	S:E147Q, ORF8:K68E		T	T			S			K		S	Q		LEVEL ||| |||
+	BN.1.3.4	(BA.2.75.5.1.3.4)		B.1.1.529.2.75.5.1.3.4	C44T, S:V445A		T	T		A	S			K		S	Q		LEVEL ||| ||| |
+	BN.1.3.5	(BA.2.75.5.1.3.5)		B.1.1.529.2.75.5.1.3.5	C7390A, ORF7b:C41W		T	T			S			K		S	Q		LEVEL ||| |||
+	BN.1.3.6	(BA.2.75.5.1.3.6)		B.1.1.529.2.75.5.1.3.6	M:R174Q
+	BN.1.3.7	(BA.2.75.5.1.3.7)		B.1.1.529.2.75.5.1.3.7	ORF1a:T1429I
+	BN.1.3.8	(BA.2.75.5.1.3.8)		B.1.1.529.2.75.5.1.3.8	S:D1139H
+	EJ.1	(BN.1.3.8.1)		B.1.1.529.2.75.5.1.3.8.1	S:I1225V
+	EJ.2	(BN.1.3.8.2)		B.1.1.529.2.75.5.1.3.8.2	ORF1a:T4355I
+	BN.1.4	(BA.2.75.5.1.4)		B.1.1.529.2.75.5.1.4	T27501C		T	T			S			K		S	Q		LEVEL ||| |||
+	BN.1.4.1	(BA.2.75.5.1.4.1)		B.1.1.529.2.75.5.1.4.1	S:G261V, S:T678I		T	T			S			K		S	Q		LEVEL ||| |||
+	BN.1.4.2	(BA.2.75.5.1.4.2)		B.1.1.529.2.75.5.1.4.2	ORF1b:T2099I, S:Q1113K, M:T30I		T	T			S			K		S	Q		LEVEL ||| |||
+	BN.1.4.3	(BA.2.75.5.1.4.3)		B.1.1.529.2.75.5.1.4.3	ORF1a:P1096T		T	T			S			K		S	Q		LEVEL ||| |||
+	BN.1.4.4	(BA.2.75.5.1.4.4)		B.1.1.529.2.75.5.1.4.4	ORF1b:V1149L, ORF1b:V1723M		T	T			S			K		S	Q		LEVEL ||| |||
+	BN.1.4.5	(BA.2.75.5.1.4.5)		B.1.1.529.2.75.5.1.4.5	G15921T, T20583C, ORF1a:T3287I		T	T			S			K		S	Q		LEVEL ||| |||
+	BN.1.5	(BA.2.75.5.1.5)		B.1.1.529.2.75.5.1.5	ORF1a:S2103F		T	T			S			K		S	Q		LEVEL ||| |||
+	BN.1.5.1	(BA.2.75.5.1.5.1)		B.1.1.529.2.75.5.1.5.1	S:S514T		T	T			S			K		S	Q		LEVEL ||| |||
+	BN.1.5.2	(BA.2.75.5.1.5.2)		B.1.1.529.2.75.5.1.5.2	S:N481K		T	T			S			K		S	Q		LEVEL ||| |||
+	BN.1.6	(BA.2.75.5.1.6)		B.1.1.529.2.75.5.1.6	S:D1139H, N:A267S		T	T			S			K		S	Q		LEVEL ||| |||
+	BN.1.7	(BA.2.75.5.1.7)		B.1.1.529.2.75.5.1.7	S:M177T, S:H1101Y		T	T			S			K		S	Q		LEVEL ||| |||
+	BN.1.8	(BA.2.75.5.1.8)		B.1.1.529.2.75.5.1.8	S:A475V		T	T			S			K		S	Q		LEVEL ||| |||
+	BN.1.9	(BA.2.75.5.1.9)		B.1.1.529.2.75.5.1.9	T11515C, E:V58F		T	T			S			K		S	Q		LEVEL ||| |||
+	BN.1.10	(BA.2.75.5.1.10)		B.1.1.529.2.75.5.1.10	S:Y145H		T	T			S			K		S	Q		LEVEL ||| |||
+	BN.1.11	(BA.2.75.5.1.11)		B.1.1.529.2.75.5.1.11	C2462T, A3829G, S:L176F, S:D936H		T	T			S			K		S	Q		LEVEL ||| |||
+	BN.2	(BA.2.75.5.2)		B.1.1.529.2.75.5.2	N:Q163L			T			S			K			Q		LEVEL ||| |
+	BN.2.1	(BA.2.75.5.2.1)		B.1.1.529.2.75.5.2.1	S:H49Y, S:F490S			T			S			K		S	Q		LEVEL ||| ||
+	BN.3	(BA.2.75.5.3)		B.1.1.529.2.75.5.3	ORF1a:I567V, ORF1a:G392D, S:N450D			T			S	D		K			Q		LEVEL ||| ||
+	BN.3.1	(BA.2.75.5.3.1)		B.1.1.529.2.75.5.3.1	ORF1a:K1860R, ORF1a:L2778F, S:F490S			T			S	D		K		S	Q		LEVEL ||| |||
+	BN.4	(BA.2.75.5.4)		B.1.1.529.2.75.5.4	ORF1a:G392D, S:F490S			T			S			K		S	Q		LEVEL ||| ||
+	BN.5	(BA.2.75.5.5)		B.1.1.529.2.75.5.5	ORF1a:V2995M			T			S			K			Q		LEVEL ||| |
+	BN.6	(BA.2.75.5.6)		B.1.1.529.2.75.5.6	ORF1a:T3959A			T			S			K			Q		LEVEL ||| |
+Dictys	BA.2.75.6			B.1.1.529.2.75.6	S:R346T		T				S			K			Q		LEVEL ||| |
+	BY.1	(BA.2.75.6.1)		B.1.1.529.2.75.6.1	S:F486S		T				S			K	S		Q		LEVEL ||| ||
+	BY.1.1	(BA.2.75.6.1.1)		B.1.1.529.2.75.6.1.1	S:L452R, M:D3N		T				S		R	K	S		Q		LEVEL ||| |||
+	BY.1.1.1	(BA.2.75.6.1.1.1)		B.1.1.529.2.75.6.1.1.1	ORF1a:I257V, ORF1a:K2771R, S:N185D, S:H207R		T				S		R	K	S		Q		LEVEL ||| |||
+	BY.1.2	(BA.2.75.6.1.2)		B.1.1.529.2.75.6.1.2	G26828T		T				S			K	S		Q		LEVEL ||| ||
+	BY.1.2.1	(BA.2.75.6.1.2.1)		B.1.1.529.2.75.6.1.2.1	ORF1a:G101V, ORF1a:G4178S, S:S494P		T				S			K	S		Q	P	LEVEL ||| |||
+	BA.2.75.7			B.1.1.529.2.75.7	S:F486S						S			K	S		Q		LEVEL ||| |
+	BA.2.75.8			B.1.1.529.2.75.8	ORF1a:V424A, ORF1b:K499R, S:L452Q						S		Q	K			Q		LEVEL ||| |
+	BA.2.75.9			B.1.1.529.2.75.9	17679T, S:R346T		T				S			K			Q		LEVEL ||| |
+	CB.1	(BA.2.75.9.1)		B.1.1.529.2.75.9.1	S:F486V		T				S			K	V		Q		LEVEL ||| ||
+	BA.2.75.10			B.1.1.529.2.75.10	ORF1a:T3959A						S			K			Q		LEVEL |||
+	BA.2.76			B.1.1.529.2.76	S:Y248N, S:R346T		T												LEVEL |
+	BA.4			B.1.1.529.4	S:A27S, S:L452R, S:F486V, S:R493Q, N:P151S								R		V		Q		LEVEL |||
+	BA.4.1			B.1.1.529.4.1	S:V3G								R		V		Q		LEVEL |||
+	BA.4.1.8			B.1.1.529.4.1.8	S:R346T, C14322T,T18603C, C28720T		T						R		V		Q		LEVEL ||| |
+Cetus	BA.4.1.9			B.1.1.529.4.1.9	S:R346T		T						R		V		Q		LEVEL ||| |
+	BA.4.1.10			B.1.1.529.4.1.10	S:N354D, S:R346T, ORF3a:G49V		T						R		V		Q		LEVEL ||| |
+	CS.1	(BA.4.1.10.1)		B.1.1.529.4.1.10.1	ORF1b:E1264D, S:K444R		T		R				R		V		Q		LEVEL ||| ||
+	BA.4.1.11			B.1.1.529.4.1.11	S:K147E, S:V445A, ORF7a:T28I, ORF8:Q18L		T			A			R		V		Q		LEVEL ||| ||
+Aeterna	BA.4.6			B.1.1.529.4.6	S:R346T		T						R		V		Q		LEVEL ||| |
+	BA.4.6.1			B.1.1.529.4.6.1	S:W152L		T						R		V		Q		LEVEL ||| |
+	BA.4.6.2			B.1.1.529.4.6.2	ORF1a:D1323G, ORF1a:M2259I, S:V445A		T			A			R		V		Q		LEVEL ||| ||
+	BA.4.6.3			B.1.1.529.4.6.3	ORF1a:G963C, S:444N, S:460K, S:144del	del	T		N				R	K	V		Q		LEVEL ||| |||
+	BA.4.6.4			B.1.1.529.4.6.4	ORF7a:Q62H		T						R		V		Q		LEVEL ||| |
+	BA.4.6.5			B.1.1.529.4.6.5	ORF9b:N36S		T						R		V		Q		LEVEL ||| |
+	DC.1	(BA.4.6.5.1)		B.1.1.529.4.6.5.1	S:N460S		T						R	S	V		Q		LEVEL ||| ||
+	BA.4.7			B.1.1.529.4.7	S:R346S, ORF3a:I47V		T						R		V		Q		LEVEL ||| |
+	BA.4.8			B.1.1.529.4.8	N:P151S								R		V		Q		LEVEL |||
+	BA.5			B.1.1.529.5	S:A27S, S:L452R, S:F486V, S:R493Q, M:D3N								R		V		Q		LEVEL |||
+Sphinx	BA.5.1			B.1.1.529.5.1	T27438C, C29666T								R		V		Q		LEVEL |||
+	BA.5.1.15			B.1.1.529.5.1.15	C10183T, C10790T, ORF1a:H3509Y								R		V		Q		LEVEL |||
+	DL.1	(BA.5.1.15.1)		B.1.1.529.5.1.15.1	T22942G, G23593T, ORF1a:H3509Y,  S:K444N, S:N460K, S:Q677H				N				R	K	V		Q		LEVEL ||| ||
+	BA.5.1.18			B.1.1.529.5.1.18	ORF1b:T310I, ORF1b:A1476S, S:R346T		T						R		V		Q		LEVEL ||| |
+	BA.5.1.19			B.1.1.529.5.1.19	ORF1b:G662C								R		V		Q		LEVEL |||
+	BA.5.1.20			B.1.1.529.5.1.20	S:R346T, ORF1a:K1407M		T						R		V		Q		LEVEL ||| |
+	BA.5.1.21			B.1.1.529.5.1.21	ORF1b:G662S								R		V		Q		LEVEL |||
+	BT.1	(BA.5.1.21.1)		B.1.1.529.5.1.21.1	Orf7a:P34H								R		V		Q		LEVEL |||
+	BT.2	(BA.5.1.21.2)		B.1.1.529.5.1.21.2	ORF9b:D2G								R		V		Q		LEVEL |||
+	BA.5.1.22			B.1.1.529.5.1.22	ORF1b:S1273L								R		V		Q		LEVEL |||
+	DH.1	(BA.5.1.22.1)		B.1.1.529.5.1.22.1	ORF1a:A2199T, ORF1a:S2731G, S:145-146del								R		V		Q		LEVEL |||
+	BA.5.1.23			B.1.1.529.5.1.23	ORF1a:S302F								R		V		Q		LEVEL |||
+	DE.1	(BA.5.1.23.1)		B.1.1.529.5.1.23.1	S:A694V								R		V		Q		LEVEL |||
+	DE.2	(BA.5.1.23.2)		B.1.1.529.5.1.23.2	S:G181V, S:R346T		T						R		V		Q		LEVEL ||| |
+	BA.5.1.24			B.1.1.529.5.1.24	ORF1b:V1271L								R		V		Q		LEVEL |||
+	BA.5.1.25			B.1.1.529.5.1.25	ORF7b:H42Y								R		V		Q		LEVEL |||
+	DJ.1	(BA.5.1.25.1)		B.1.1.529.5.1.25.1	S:S408R, S:K444N				N				R		V		Q		LEVEL ||| |
+	DJ.1.1	(BA.5.1.25.1.1)		B.1.1.529.5.1.25.1.1	S:N460K, N:T265S				N				R	K	V		Q		LEVEL ||| ||
+	DJ.1.1.1	(BA.5.1.25.1.1.1)		B.1.1.529.5.1.25.1.1.1	T15516C, S:K147N				N				R	K	V		Q		LEVEL ||| ||
+	DJ.1.2	(BA.5.1.25.1.2)		B.1.1.529.5.1.25.1.2	S:L176F, S:N460K, N:G5E, ORF9b:D2N				N				R	K	V		Q		LEVEL ||| ||
+	DJ.1.3	(BA.5.1.25.1.3)		B.1.1.529.5.1.25.1.3	ORF1a:T3287I, ORF1b:T1697A, S:N460K				N				R	K	V		Q		LEVEL ||| ||
+	BA.5.1.26			B.1.1.529.5.1.26	S:R346T, Orf3a:R68G		T						R		V		Q		LEVEL ||| |
+	CU.1	(BA.5.1.26.1)		B.1.1.529.5.1.26.1	S:T95I, S:T547K		T						R		V		Q		LEVEL ||| |
+	BA.5.1.27			B.1.1.529.5.1.27	S:R346T, ORF8:I121del		T						R		V		Q		LEVEL ||| |
+	BA.5.1.28			B.1.1.529.5.1.28	S:R346T, A18480G		T						R		V		Q		LEVEL ||| |
+	BA.5.1.29			B.1.1.529.5.1.29	N:A218S, S:K444N				N				R		V		Q		LEVEL ||| |
+	CL.1	(BA.5.1.29.1)		B.1.1.529.5.1.29.1	S:K150E, S:N460K, ORF8:F41C				N				R	K	V		Q		LEVEL ||| |
+	CL.1.1	(BA.5.1.29.1.1)		B.1.1.529.5.1.29.1.1	S:P1162L				N				R	K	V		Q		LEVEL ||| |
+	CL.1.2	(BA.5.1.29.1.2)		B.1.1.529.5.1.29.1.2	S:T883I				N				R	K	V		Q		LEVEL ||| |
+	CL.1.3	(BA.5.1.29.1.3)		B.1.1.529.5.1.29.1.3	S:S71F				N				R	K	V		Q		LEVEL ||| |
+	BA.5.1.30			B.1.1.529.5.1.30	ORF6:D6G								R		V		Q		LEVEL |||
+	BA.5.1.31			B.1.1.529.5.1.31	ORF1a:P1692S, ORF1b:V1170I, ORF3a:D155Y,  ORF9b:P51L,								R		V		Q		LEVEL |||
+	BA.5.1.32			B.1.1.529.5.1.32	ORF1b:D1565N, N:S79I, N:A273S, ORF9b:V76F								R		V		Q		LEVEL |||
+	BA.5.1.33			B.1.1.529.5.1.33	ORF1a:T1444A, S:V1264L, ORF9b:T95M								R		V		Q		LEVEL |||
+	EQ.1	(BA.5.1.33.1)		B.1.1.529.5.1.33.1	S:Q14H								R		V		Q		LEVEL |||
+	BA.5.1.34			B.1.1.529.5.1.34	S:P1162S, S:K147-, S:N148-								R		V		Q		LEVEL |||
+	BA.5.1.35			B.1.1.529.5.1.35	ORF1a:I1525M								R		V		Q		LEVEL |||
+	EB.1	(BA.5.1.35.1)		B.1.1.529.5.1.35.1	A9409G, A13623G, S:R346T		T						R		V		Q		LEVEL ||| |
+	BA.5.1.36			B.1.1.529.5.1.36	ORF1a:V3892A, S:G261V, S:R346T, N:G18C		T						R		V		Q		LEVEL ||| |
+	BA.5.1.37			B.1.1.529.5.1.37	S:Y248N, S:R346T		T						R		V		Q		LEVEL ||| |
+	BA.5.1.38			B.1.1.529.5.1.38	ORF1b:A2589T, S:R346T, ORF8:S103L		T						R		V		Q		LEVEL ||| |
+Triton	BA.5.2			B.1.1.529.5.2	ORF9b:D16G								R		V		Q		LEVEL |||
+	BA.5.2.1			B.1.1.529.5.2.1	A27038G								R		V		Q		LEVEL |||
+	BF.1	(BA.5.2.1.1)		B.1.1.529.5.2.1.1	ORF1b:V2685F								R		V		Q		LEVEL |||
+	BF.1.1	(BA.5.2.1.1.1)		B.1.1.529.5.2.1.1.1	ORF1a:E87D, ORF1a:Y925H, ORF1a:D983G,  ORF1a:V3524I, ORF1a:V3858L								R		V		Q		LEVEL |||
+	BF.2	(BA.5.2.1.2)		B.1.1.529.5.2.1.2	Orf1b:V311L								R		V		Q		LEVEL |||
+	BF.3	(BA.5.2.1.3)		B.1.1.529.5.2.1.3	S:T547I								R		V		Q		LEVEL |||
+	BF.3.1	(BA.5.2.1.3.1)		B.1.1.529.5.2.1.3.1	S:G446S						S		R		V		Q		LEVEL ||| |
+	BF.4	(BA.5.2.1.4)		B.1.1.529.5.2.1.4	S:T259A								R		V		Q		LEVEL |||
+	BF.5	(BA.5.2.1.5)		B.1.1.529.5.2.1.5	Orf7a:H47Y								R		V		Q		LEVEL |||
+	BF.5.1	(BA.5.2.1.5.1)		B.1.1.529.5.2.1.5.1	ORF1a:I2873V, S:R346T		T						R		V		Q		LEVEL ||| |
+	BF.5.2	(BA.5.2.1.5.2)		B.1.1.529.5.2.1.5.2	T23443C, S:V445A					A			R		V		Q		LEVEL ||| |
+	BF.5.3	(BA.5.2.1.5.3)		B.1.1.529.5.2.1.5.3	ORF1a:I567T, ORF1a:G1152S, ORF1a:K2533R,  ORF1a:T4217I, ORF1b:V965I, ORF1b:H2571Y, 								R		V		Q		LEVEL |||
+	BF.5.4	(BA.5.2.1.5.4)		B.1.1.529.5.2.1.5.4	ORF1a:K3839R								R		V		Q		LEVEL |||
+	BF.6	(BA.5.2.1.6)		B.1.1.529.5.2.1.6	S:G181A								R		V		Q		LEVEL |||
+Minotaur	BF.7	(BA.5.2.1.7)		B.1.1.529.5.2.1.7	S:R346T, N:S33F, N:G30-33del		T						R		V		Q		LEVEL ||| |
+	BF.7.1	(BA.5.2.1.7.1)		B.1.1.529.5.2.1.7.1	S:G261V		T						R		V		Q		LEVEL ||| |
+	BF.7.2	(BA.5.2.1.7.2)		B.1.1.529.5.2.1.7.2	S:F486I, S:H1101Y		T						R		I		Q		LEVEL ||| |
+	BF.7.3	(BA.5.2.1.7.3)		B.1.1.529.5.2.1.7.3	S:K182E		T						R		V		Q		LEVEL ||| |
+	BF.7.4	(BA.5.2.1.7.4)		B.1.1.529.5.2.1.7.4	ORF8:H17Y		T						R		V		Q		LEVEL ||| |
+	BF.7.4.1	(BA.5.2.1.7.4.1)		B.1.1.529.5.2.1.7.4.1	T21180C, ORF1b:P1427S		T						R		V		Q		LEVEL ||| |
+	BF.7.4.2	(BA.5.2.1.7.4.2)		B.1.1.529.5.2.1.7.4.2	ORF1a:S2024L, ORF1b:S1745T		T						R		V		Q		LEVEL ||| |
+	BF.7.4.3	(BA.5.2.1.7.4.3)		B.1.1.529.5.2.1.7.4.3	S:F157L, N:A90S		T						R		V		Q		LEVEL ||| |
+	BF.7.5	(BA.5.2.1.7.5)		B.1.1.529.5.2.1.7.5	ORF1b:P1427		T						R		V		Q		LEVEL ||| |
+	BF.7.5.1	(BA.5.2.1.7.5.1)		B.1.1.529.5.2.1.7.5.1	ORF1a:H712N, S:G181V, M:H155Y, S:Y144del	del	T						R		V		Q		LEVEL ||| |
+	BF.7.6	(BA.5.2.1.7.6)		B.1.1.529.5.2.1.7.6	ORF3a:E239D		T						R		V		Q		LEVEL ||| |
+	BF.7.7	(BA.5.2.1.7.7)		B.1.1.529.5.2.1.7.7	S:D80G		T						R		V		Q		LEVEL ||| |
+	BF.7.8	(BA.5.2.1.7.8)		B.1.1.529.5.2.1.7.8	S:T883I		T						R		V		Q		LEVEL ||| |
+	BF.7.9	(BA.5.2.1.7.9)		B.1.1.529.5.2.1.7.9	S:Q677H		T						R		V		Q		LEVEL ||| |
+	BF.7.10	(BA.5.2.1.7.10)		B.1.1.529.5.2.1.7.10	S:Q1201K		T						R		V		Q		LEVEL ||| |
+	BF.7.11	(BA.5.2.1.7.11)		B.1.1.529.5.2.1.7.11	S:D1260Y		T						R		V		Q		LEVEL ||| |
+	BF.7.12	(BA.5.2.1.7.12)		B.1.1.529.5.2.1.7.12	S:A942S		T						R		V		Q		LEVEL ||| |
+	BF.7.13	(BA.5.2.1.7.13)		B.1.1.529.5.2.1.7.13	ORF1a:H388Y, ORF1a:H1160Y		T						R		V		Q		LEVEL ||| |
+	BF.7.13.1	(BA.5.2.1.7.13.1)		B.1.1.529.5.2.1.7.13.1	S:T430I, S:H681Y		T						R		V		Q		LEVEL ||| |
+	BF.7.13.2	(BA.5.2.1.7.13.2)		B.1.1.529.5.2.1.7.13.2	S:A653V		T						R		V		Q		LEVEL ||| |
+	BF.7.14	(BA.5.2.1.7.14)		B.1.1.529.5.2.1.7.14	ORF1a:V274L, S:C1243F, ORF7a:H47Y		T						R		V		Q		LEVEL ||| |
+	BF.7.14.1	(BA.5.2.1.7.14.1)		B.1.1.529.5.2.1.7.14.1	ORF1a:I1203V, ORF1a:K2901T		T						R		V		Q		LEVEL ||| |
+	BF.7.14.2	(BA.5.2.1.7.14.2)		B.1.1.529.5.2.1.7.14.2	S:Q14H		T						R		V		Q		LEVEL ||| |
+	BF.7.14.3	(BA.5.2.1.7.14.3)		B.1.1.529.5.2.1.7.14.3	S:A626V		T						R		V		Q		LEVEL ||| |
+	BF.7.14.4	(BA.5.2.1.7.14.4)		B.1.1.529.5.2.1.7.14.4	C5796T, C25701T, ORF1a:T1844I		T						R		V		Q		LEVEL ||| |
+	BF.7.14.5	(BA.5.2.1.7.14.5)		B.1.1.529.5.2.1.7.14.5	C20703T		T						R		V		Q		LEVEL ||| |
+	BF.7.14.6	(BA.5.2.1.7.14.6)		B.1.1.529.5.2.1.7.14.6	C1973T		T						R		V		Q		LEVEL ||| |
+	BF.7.14.7	(BA.5.2.1.7.14.7)		B.1.1.529.5.2.1.7.14.7	T11587C, S:S1021F		T						R		V		Q		LEVEL ||| |
+	BF.7.15	(BA.5.2.1.7.15)		B.1.1.529.5.2.1.7.15	ORF1a:A1812V, S:G257D		T						R		V		Q		LEVEL ||| |
+	BF.7.16	(BA.5.2.1.7.16)		B.1.1.529.5.2.1.7.16	T2080C, ORF1a:A498V		T						R		V		Q		LEVEL ||| |
+	BF.7.16.1	(BA.5.2.1.7.16.1)		B.1.1.529.5.2.1.7.16.1	ORF1a:A2123V, S:A688V		T						R		V		Q		LEVEL ||| |
+	BF.7.17	(BA.5.2.1.7.17)		B.1.1.529.5.2.1.7.17	ORF1a:A1485V, ORF1b:I1074V, S:A688V, S:G1167S		T						R		V		Q		LEVEL ||| |
+	BF.7.18	(BA.5.2.1.7.18)		B.1.1.529.5.2.1.7.18	S:K97N		T						R		V		Q		LEVEL ||| |
+	BF.7.19	(BA.5.2.1.7.19)		B.1.1.529.5.2.1.7.19	ORF7a:R118S		T						R		V		Q		LEVEL ||| |
+	BF.7.19.1	(BA.5.2.1.7.19.1)		B.1.1.529.5.2.1.7.19.1	T7111C, C16470T, A26219G, ORF8:T87I		T						R		V		Q		LEVEL ||| |
+	BF.7.20	(BA.5.2.1.7.20)		B.1.1.529.5.2.1.7.20	G15543T		T						R		V		Q		LEVEL ||| |
+	BF.7.21	(BA.5.2.1.7.21)		B.1.1.529.5.2.1.7.21	A6058G, C28603T		T						R		V		Q		LEVEL ||| |
+	BF.7.22	(BA.5.2.1.7.22)		B.1.1.529.5.2.1.7.22	T9107C, T27794C, ORF8:V81I		T						R		V		Q		LEVEL ||| |
+	BF.7.23	(BA.5.2.1.7.23)		B.1.1.529.5.2.1.7.23	ORF1b:T239I		T						R		V		Q		LEVEL ||| |
+	BF.7.24	(BA.5.2.1.7.24)		B.1.1.529.5.2.1.7.24	T10939C		T						R		V		Q		LEVEL ||| |
+	BF.7.25	(BA.5.2.1.7.25)		B.1.1.529.5.2.1.7.25	C29708T, T29867A		T						R		V		Q		LEVEL ||| |
+	BF.7.26	(BA.5.2.1.7.26)		B.1.1.529.5.2.1.7.26	G20679A		T						R		V		Q		LEVEL ||| |
+	BF.7.27	(BA.5.2.1.7.27)		B.1.1.529.5.2.1.7.27	C8752T		T						R		V		Q		LEVEL ||| |
+	BF.8	(BA.5.2.1.8)		B.1.1.529.5.2.1.8	N:T362K								R		V		Q		LEVEL |||
+	BF.9	(BA.5.2.1.9)		B.1.1.529.5.2.1.9	ORF1a:G1764S, ORF1a:Q3596H, ORF1b:A1131V								R		V		Q		LEVEL |||
+	BF.10	(BA.5.2.1.10)		B.1.1.529.5.2.1.10	ORF1b:A1291V, N:L13F								R		V		Q		LEVEL |||
+	BF.10.1	(BA.5.2.1.10.1)		B.1.1.529.5.2.1.10.1	S:V445A, S:G446S					A	S		R		V		Q		LEVEL ||| ||
+Python	BF.11	(BA.5.2.1.11)		B.1.1.529.5.2.1.11	S:R346T		T						R		V		Q		LEVEL ||| |
+	BF.11.1	(BA.5.2.1.11.1)		B.1.1.529.5.2.1.11.1	S:S1252F		T						R		V		Q		LEVEL ||| |
+	BF.11.2	(BA.5.2.1.11.2)		B.1.1.529.5.2.1.11.2	ORF1a:T2068P, S:K147N		T						R		V		Q		LEVEL ||| |
+	BF.11.3	(BA.5.2.1.11.3)		B.1.1.529.5.2.1.11.3	ORF1a:L122F		T						R		V		Q		LEVEL ||| |
+	BF.11.4	(BA.5.2.1.11.4)		B.1.1.529.5.2.1.11.4	S:S704L		T						R		V		Q		LEVEL ||| |
+	BF.11.5	(BA.5.2.1.11.5)		B.1.1.529.5.2.1.11.5	ORF1a:S531G, ORF8:I121L		T						R		V		Q		LEVEL ||| |
+	BF.12	(BA.5.2.1.12)		B.1.1.529.5.2.1.12	S:F486I								R		I		Q		LEVEL |||
+	BF.13	(BA.5.2.1.13)		B.1.1.529.5.2.1.13	ORF1a:K2589R, ORF1b:K1957R, S:R346S		S						R		V		Q		LEVEL ||| |
+	BF.14	(BA.5.2.1.14)		B.1.1.529.5.2.1.14	ORF1b:H1087Y, S:N450D							D	R		V		Q		LEVEL ||| |
+	BF.15	(BA.5.2.1.15)		B.1.1.529.5.2.1.15	S:Y248H								R		V		Q		LEVEL |||
+	BF.16	(BA.5.2.1.16)		B.1.1.529.5.2.1.16	S:K444R				R				R		V		Q		LEVEL ||| |
+	BF.17	(BA.5.2.1.17)		B.1.1.529.5.2.1.17	T1570C ORF1a:D2880N								R		V		Q		LEVEL |||
+	BF.18	(BA.5.2.1.18)		B.1.1.529.5.2.1.18	ORF3a:A33S								R		V		Q		LEVEL |||
+	BF.19	(BA.5.2.1.19)		B.1.1.529.5.2.1.19	S:G213E, N:T141I								R		V		Q		LEVEL |||
+	BF.20	(BA.5.2.1.20)		B.1.1.529.5.2.1.20	ORF1a:T2274N								R		V		Q		LEVEL |||
+	BF.21	(BA.5.2.1.21)		B.1.1.529.5.2.1.21	ORF1a:L642F, ORF1a:D935G, ORF1a::T224I,  ORF3a:T175I								R		V		Q		LEVEL |||
+	BF.22	(BA.5.2.1.22)		B.1.1.529.5.2.1.22	N:T49I, N:T379I								R		V		Q		LEVEL |||
+	BF.23	(BA.5.2.1.23)		B.1.1.529.5.2.1.23	ORF1a:L1507F								R		V		Q		LEVEL |||
+	BF.24	(BA.5.2.1.24)		B.1.1.529.5.2.1.24	ORF1a:G638C								R		V		Q		LEVEL |||
+	BF.25	(BA.5.2.1.25)		B.1.1.529.5.2.1.25	S:V445A, C18657T					A			R		V		Q		LEVEL ||| |
+	BF.26	(BA.5.2.1.26)		B.1.1.529.5.2.1.26	ORF1b:G376S, ORF9b:V30L								R		V		Q		LEVEL |||
+	BF.27	(BA.5.2.1.27)		B.1.1.529.5.2.1.27	ORF1a:A2784V								R		V		Q		LEVEL |||
+	BF.28	(BA.5.2.1.28)		B.1.1.529.5.2.1.28	ORF1a:Q44L								R		V		Q		LEVEL |||
+	BF.29	(BA.5.2.1.29)		B.1.1.529.5.2.1.29	ORF3a:M260K								R		V		Q		LEVEL |||
+	BF.30	(BA.5.2.1.30)		B.1.1.529.5.2.1.30	S:R346T, ORF3a:T175I, C25916T, C14599T		T						R		V		Q		LEVEL ||| |
+	BF.31	(BA.5.2.1.31)		B.1.1.529.5.2.1.31	C23758T								R		V		Q		LEVEL |||
+	BF.31.1	(BA.5.2.1.31.1)		B.1.1.529.5.2.1.31.1	S:Y248N, S:A701V, S:S247del								R		V		Q		LEVEL |||
+	BF.32	(BA.5.2.1.32)		B.1.1.529.5.2.1.32	ORF1a:T1552N, ORF1b:G662S, S:N450D							D	R		V		Q		LEVEL ||| |
+	BF.33	(BA.5.2.1.33)		B.1.1.529.5.2.1.33	S:R346I, S:N460K		I						R	K	V		Q		LEVEL ||| ||
+	BF.34	(BA.5.2.1.34)		B.1.1.529.5.2.1.34	S:R346T, S:R646H, ORF3a:L115F		T						R		V		Q		LEVEL ||| |
+	BF.35	(BA.5.2.1.35)		B.1.1.529.5.2.1.35	ORF1a:L730R, ORF1b:M557I, S:N450D, ORF7a:T14I							D	R		V		Q		LEVEL ||| |
+	BF.36	(BA.5.2.1.36)		B.1.1.529.5.2.1.36	ORF1a:S166G, ORF1b:S1273L, ORF1b:A1428V								R		V		Q		LEVEL |||
+	BF.37	(BA.5.2.1.37)		B.1.1.529.5.2.1.37	T7855C, ORF1a:S944L, S:G446D						D		R		V		Q		LEVEL ||| |
+	BF.38	(BA.5.2.1.38)		B.1.1.529.5.2.1.38	C17304T								R		V		Q		LEVEL |||
+	BF.38.1	(BA.5.2.1.38.1)		B.1.1.529.5.2.1.38.1	S:Q1201K								R		V		Q		LEVEL |||
+	BF.38.2	(BA.5.2.1.38.2)		B.1.1.529.5.2.1.38.2	ORF1b:H604Y, S:V445A					A			R		V		Q		LEVEL ||| |
+	BF.38.3	(BA.5.2.1.38.3)		B.1.1.529.5.2.1.38.3	S:Y655H, S:P1162S								R		V		Q		LEVEL |||
+	BF.39	(BA.5.2.1.39)		B.1.1.529.5.2.1.39	S:G181V								R		V		Q		LEVEL |||
+	BF.39.1	(BA.5.2.1.39.1)		B.1.1.529.5.2.1.39.1	T2290C, C11833T, S:V445A, S:N450D					A		D	R		V		Q		LEVEL ||| ||
+	BF.40	(BA.5.2.1.40)		B.1.1.529.5.2.1.40	G3838A, S:V445A					A			R		V		Q		LEVEL ||| |
+	BF.41	(BA.5.2.1.41)		B.1.1.529.5.2.1.41	ORF7b:A43V								R		V		Q		LEVEL |||
+	BF.41.1	(BA.5.2.1.41.1)		B.1.1.529.5.2.1.41.1	ORF1a:A138V, ORF1a:V3560I, S:R346T		T						R		V		Q		LEVEL |||
+	BA.5.2.3			B.1.1.529.5.2.3	Orf1a:K120N								R		V		Q		LEVEL |||
+	BZ.1	(BA.5.2.3.1)		B.1.1.529.5.2.3.1	ORF1a:S17N, ORF1b:E1288D, S:Q677H								R		V		Q		LEVEL |||
+	BZ.2			B.1.1.529.5.2.3.2	S:N450D, ORF1a:H2794Y						D		R		V		Q		LEVEL ||| |
+	BA.5.2.6			B.1.1.529.5.2.6	S:R346T		T						R		V		Q		LEVEL ||| |
+	CP.1	(BA.5.2.6.1)		B.1.1.529.5.2.6.1	T27360C, ORF8:V116del		T						R		V		Q		LEVEL ||| |
+	CP.1.1	(BA.5.2.6.1.1)		B.1.1.529.5.2.6.1.1	S:V445A		T			A			R		V		Q		LEVEL ||| ||
+	CP.1.2	(BA.5.2.6.1.2)		B.1.1.529.5.2.6.1.2	ORF1a:S2114F, S:K150N		T						R		V		Q		LEVEL ||| |
+	CP.1.3	(BA.5.2.6.1.3)		B.1.1.529.5.2.6.1.3	ORF1a:A3697V, S:G446S, S:Y144del	del	T				S		R		V		Q		LEVEL ||| ||
+	CP.2	(BA.5.2.6.2)		B.1.1.529.5.2.6.2	S:N334K, S:R346T, S:Y144del	del	T						R		V		Q		LEVEL ||| |
+	CP.3	(BA.5.2.6.3)		B.1.1.529.5.2.6.3	ORF1a:K3353R, S:N460Y		T						R	Y	V		Q		LEVEL ||| ||
+	CP.4	(BA.5.2.6.4)		B.1.1.529.5.2.6.4	S:I770V		T						R		V		Q		LEVEL ||| |
+	CP.5	(BA.5.2.6.5)		B.1.1.529.5.2.6.5	G25302T, S:C1247F		T						R		V		Q		LEVEL ||| |
+	CP.6	(BA.5.2.6.6)		B.1.1.529.5.2.6.6	S:V1264L		T						R		V		Q		LEVEL ||| |
+	CP.7	(BA.5.2.6.7)		B.1.1.529.5.2.6.7	ORF1a:Y182H, S:N703Y, ORF7a:E41D		T						R		V		Q		LEVEL ||| |
+	CP.8	(BA.5.2.6.8)		B.1.1.529.5.2.6.8	A15486G, A19283G, ORF1b:D1939G		T						R		V		Q		LEVEL ||| |
+	BA.5.2.7			B.1.1.529.5.2.7	ORF1a:M598T, S:K444M				M				R		V		Q		LEVEL ||| |
+	CY.1	(BA.5.2.7.1)		B.1.1.529.5.2.7.1	S:N460K, ORF8:A14T				M				R	K	V		Q		LEVEL ||| ||
+	CY.2	(BA.5.2.7.2)		B.1.1.529.5.2.7.2	ORF1a:I2490S, S:T1066N, N:P20S				M				R		V		Q		LEVEL ||| |
+	BA.5.2.13			B.1.1.529.5.2.13	ORF1a:I4291V, S:R346T		T						R		V		Q		LEVEL ||| |
+	BA.5.2.16			B.1.1.529.5.2.16	ORF1a:A3697V								R		V		Q		LEVEL |||
+	BU.1	(BA.5.2.16.1)		B.1.1.529.5.2.16.1	ORF1a:A3357V, S:Y144del, S:K444M, S:N460K	del			M				R	K	V		Q		LEVEL ||| ||
+	BU.2	(BA.5.2.16.2)		B.1.1.529.5.2.16.2	S:V445A, ORF3a:T89I					A			R		V		Q		LEVEL ||| |
+	BU.3	(BA.5.2.16.3)		B.1.1.529.5.2.16.3	S:K147N, S:N450D							D	R		V		Q		LEVEL ||| |
+	BA.5.2.18			B.1.1.529.5.2.18	S:K444R, ORF1b:T1050N				R				R		V		Q		LEVEL ||| |
+	CR.1	(BA.5.2.18.1)		B.1.1.529.5.2.18.1	S:R346T, S:Y144del	del	T		R				R		V		Q		LEVEL ||| ||
+	CR.1.1	(BA.5.2.18.1.1)		B.1.1.529.5.2.18.1.1	ORF1a:T1001I, S:V62I	del	T		R				R		V		Q		LEVEL ||| ||
+	CR.1.2	(BA.5.2.18.1.2)		B.1.1.529.5.2.18.1.2	ORF1a:S443F, S:V445A	del	T		R	A			R		V		Q		LEVEL ||| |||
+	CR.1.3	(BA.5.2.18.1.3)		B.1.1.529.5.2.18.1.3	ORF1a:D2592G, S:H146Q	del	T		R				R		V		Q		LEVEL ||| ||
+	CR.2	(BA.5.2.18.2)		B.1.1.529.5.2.18.2	S:Y145H				R				R		V		Q		LEVEL ||| |
+	BA.5.2.19			B.1.1.529.5.2.19	ORF3a:T14I, ORF1b:T1050N								R		V		Q		LEVEL |||
+	BA.5.2.20			B.1.1.529.5.2.20	C23707T, ORF1b:T1050N								R		V		Q		LEVEL |||
+	BV.1	(BA.5.2.20.1)		B.1.1.529.5.2.20.1	S:P251H, S:R1014K								R		V		Q		LEVEL |||
+	BV.2	(BA.5.2.20.2)		B.1.1.529.5.2.20.2	S:K444N				N				R		V		Q		LEVEL ||| |
+	BA.5.2.21			B.1.1.529.5.2.21	C5284T, ORF1b:1050N								R		V		Q		LEVEL |||
+	CN.1	(BA.5.2.21.1)		B.1.1.529.5.2.21.1	S:N450D							D	R		V		Q		LEVEL ||| |
+	CN.2	(BA.5.2.21.2)		B.1.1.529.5.2.21.2	A17943G, T18345C, S:Y28H, S:R346T		T						R		V		Q		LEVEL ||| |
+	BA.5.2.22			B.1.1.529.5.2.22	C3330T, ORF1a:T1022I, ORF1b:1050N								R		V		Q		LEVEL |||
+	BA.5.2.23			B.1.1.529.5.2.23	S:S255F, S:V445A					A			R		V		Q		LEVEL ||| |
+	BA.5.2.24			B.1.1.529.5.2.24	S:K444N, ORF1b:T1050N				N				R		V		Q		LEVEL ||| |
+	CK.1	(BA.5.2.24.1)		B.1.1.529.5.2.24.1	S:N460K				N				R	K	V		Q		LEVEL ||| ||
+	CK.1.1	(BA.5.2.24.1.1)		B.1.1.529.5.2.24.1.1	S:N856S, S:Y144del	del			N				R	K	V		Q		LEVEL ||| ||
+	CK.1.2	(BA.5.2.24.1.2)		B.1.1.529.5.2.24.1.2	S:G181V, S:R346T		T		N				R	K	V		Q		LEVEL ||| |||
+	CK.2	(BA.5.2.24.2)		B.1.1.529.5.2.24.2	E:V62F				N				R		V		Q		LEVEL ||| |
+	CK.2.1	(BA.5.2.24.2.1)		B.1.1.529.5.2.24.2.1	S:N460K				N				R	K	V		Q		LEVEL ||| ||
+	CK.2.1.1	(BA.5.2.24.2.1.1)		B.1.1.529.5.2.24.2.1.1	ORF1a:V710I, ORF1a:G3578D, S:S255F				N				R	K	V		Q		LEVEL ||| ||
+	DG.1	(CK.2.1.1.1)	(BA.5.2.24.2.1.1.1)	B.1.1.529.5.2.24.2.1.1.1	S:G252S				N				R	K	V		Q		LEVEL ||| ||
+	CK.3	(BA.5.2.24.3)		B.1.1.529.5.2.24.3	S:N460K, ORF7a:T39I				N				R	K	V		Q		LEVEL ||| ||
+	BA.5.2.25			B.1.1.529.5.2.25	S:K444T, S:R346R(rev		R		T				R		V		Q		LEVEL ||| |
+	DB.1	(BA.5.2.25.1)		B.1.1.529.5.2.25.1	S:R346T, S:N460K		T		T				R	K	V		Q		LEVEL ||| |||
+	DB.2	(BA.5.2.25.2)		B.1.1.529.5.2.25.2	S:A262S, S:R346R(rev		R		T				R		V		Q		LEVEL ||| |
+	DB.3			B.1.1.529.5.2.25.3	T14565G, T16950A, C26151T, G28109A,  ORF1a:A690V, ORF1b:M2025I, S:R346T, S:N460K,	del	T		T				R	K	V		Q		LEVEL ||| |||
+	BA.5.2.26			B.1.1.529.5.2.26	ORF3a:L108V								R		V		Q		LEVEL |||
+	CG.1	(BA.5.2.26.1)		B.1.1.529.5.2.26.1	Orf1a:S1520F, S:K444M				M				R		V		Q		LEVEL ||| |
+	BA.5.2.27			B.1.1.529.5.2.27	ORF1a:I2332V								R		V		Q		LEVEL |||
+	CF.1	(BA.5.2.27.1)		B.1.1.529.5.2.27.1	S:K97T								R		V		Q		LEVEL |||
+	BA.5.2.28			B.1.1.529.5.2.28	ORF1a:T1437I								R		V		Q		LEVEL |||
+	BA.5.2.29			B.1.1.529.5.2.29	T6218C, ORF1b:T17I								R		V		Q		LEVEL |||
+	BA.5.2.30			B.1.1.529.5.2.30	S:G446D						D		R		V		Q		LEVEL ||| |
+	BA.5.2.31			B.1.1.529.5.2.31	S:L84I								R		V		Q		LEVEL |||
+	CD.1	(BA.5.2.31.1)		B.1.1.529.5.2.31.1	S:G446D, S:A688T						D		R		V		Q		LEVEL ||| |
+	CD.2	(BA.5.2.31.2)		B.1.1.529.5.2.31.2	ORF1a:A2098V, S:A435S, N:D144N								R		V		Q		LEVEL |||
+	BA.5.2.32			B.1.1.529.5.2.32	S:N450D, ORF8:T87I							D	R		V		Q		LEVEL ||| |
+	BA.5.2.33			B.1.1.529.5.2.33	ORF8:P93S								R		V		Q		LEVEL |||
+	CE.1	(BA.5.2.33.1)		B.1.1.529.5.2.33.1	S:R346I		I						R		V		Q		LEVEL ||| |
+	BA.5.2.34			B.1.1.529.5.2.34	ORF1b:V1538L, S:R346T, G23587A, Orf1b:1050N		T						R		V		Q		LEVEL ||| |
+	BA.5.2.35			B.1.1.529.5.2.35	S:R346T, ORF9b:R47P, G28423C, C7006T		T						R		V		Q		LEVEL ||| |
+	BA.5.2.36			B.1.1.529.5.2.36	S:K444T				T				R		V		Q		LEVEL ||| |
+	CT.1	(BA.5.2.36.1)		B.1.1.529.5.2.36.1	S:K356T			T	T				R		V		Q		LEVEL ||| ||
+	BA.5.2.37			B.1.1.529.5.2.37	G6943T, S:Y145H								R		V		Q		LEVEL |||
+	BA.5.2.38			B.1.1.529.5.2.38	S:T430I								R		V		Q		LEVEL |||
+	DA.1	(BA.5.2.38.1)		B.1.1.529.5.2.38.1	S:R346T		T						R		V		Q		LEVEL ||| |
+	BA.5.2.39			B.1.1.529.5.2.39	C4543T, T8662C, A12976T, S:R346T		T						R		V		Q		LEVEL ||| |
+	BA.5.2.40			B.1.1.529.5.2.40	ORF1a:G295C, ORF1b:D2067Y, S:L5F, S:N450D							D	R		V		Q		LEVEL ||| |
+	BA.5.2.41			B.1.1.529.5.2.41	C29762T, ORF1a:S2797F, S:K444R				R				R		V		Q		LEVEL ||| |
+	BA.5.2.42			B.1.1.529.5.2.42	ORF1b:S1182L, S:K444T, S:L981I				T				R		V		Q		LEVEL ||| |
+	BA.5.2.43			B.1.1.529.5.2.43	ORF1a:A1679V, S:G446D, S:N460K						D		R	K	V		Q		LEVEL ||| ||
+	BA.5.2.44			B.1.1.529.5.2.44	ORF1a:L2564F								R		V		Q		LEVEL |||
+	BA.5.2.45			B.1.1.529.5.2.45	A22892C, C25710T, S:K444Q, ORF7a:A55V				Q				R		V		Q		LEVEL ||| |
+	BA.5.2.46			B.1.1.529.5.2.46	ORF1a:K510E, S:K444T, S:N460K				T				R	K	V		Q		LEVEL ||| ||
+	BA.5.2.47			B.1.1.529.5.2.47	C12616T, ORF1b:T1050N, S:R346T		T						R		V		Q		LEVEL ||| |
+	DQ.1	(BA.5.2.47.1)		B.1.1.529.5.2.47.1	T12673G, S:K147N		T						R		V		Q		LEVEL ||| |
+Pallas	BA.5.2.48			B.1.1.529.5.2.48	C8626T, C16887T, T17208C								R		V		Q		LEVEL |||
+	DY.1	(BA.5.2.48.1)		B.1.1.529.5.2.48.1	S:A570S, A29868G(rev								R		V		Q		LEVEL |||
+	DY.1.1	(BA.5.2.48.1.1)		B.1.1.529.5.2.48.1.1	ORF1a:M315V, ORF1b:T1637I, S:K147E								R		V		Q		LEVEL |||
+	DY.2			B.1.1.529.5.2.48.2	N:Q241K								R		V		Q		LEVEL |||
+	DY.3			B.1.1.529.5.2.48.3	ORF1a:T1788M								R		V		Q		LEVEL |||
+	DY.4			B.1.1.529.5.2.48.4	ORF1b:T2432I								R		V		Q		LEVEL |||
+	BA.5.2.49			B.1.1.529.5.2.49	A14673G, T16456C, S:T883I								R		V		Q		LEVEL |||
+	DZ.1	(BA.5.2.49.1)		B.1.1.529.5.2.49.1	T13698C, S:D1146Y								R		V		Q		LEVEL |||
+	DZ.2	(BA.5.2.49.2)		B.1.1.529.5.2.49.2	C8950T, S:G75V								R		V		Q		LEVEL |||
+	BA.5.2.50			B.1.1.529.5.2.50	ORF1a:R207C, ORF1a:S2488F, ORF1b:P1727L								R		V		Q		LEVEL |||
+	BA.5.2.51			B.1.1.529.5.2.51	C29095T, ORF1b:P1727L, S:K444R				R				R		V		Q		LEVEL ||| |
+	BA.5.2.52			B.1.1.529.5.2.52	ORF1a:D2060N, S:N450D							D	R		V		Q		LEVEL ||| |
+	BA.5.2.53			B.1.1.529.5.2.53	T17928C, S:A653V								R		V		Q		LEVEL |||
+	BA.5.2.54			B.1.1.529.5.2.54	C11020T, S:N450D							D	R		V		Q		LEVEL ||| |
+	BA.5.2.55			B.1.1.529.5.2.55	C5548A								R		V		Q		LEVEL |||
+	BA.5.2.56			B.1.1.529.5.2.56	S:K444M				M				R		V		Q		LEVEL ||| |
+	BA.5.2.57			B.1.1.529.5.2.57	S:R346S		S						R		V		Q		LEVEL ||| |
+	BA.5.2.58			B.1.1.529.5.2.58	C9565T, C11479T, C12085T, S:R346S		S						R		V		Q		LEVEL ||| |
+	BA.5.2.59			B.1.1.529.5.2.59	S:V1264L								R		V		Q		LEVEL |||
+	BA.5.2.60			B.1.1.529.5.2.60	ORF1a:K3832R, ORF1b:P1727L, S:N450D							D	R		V		Q		LEVEL ||| |
+	BA.5.2.61			B.1.1.529.5.2.61	G29706C, ORF1b:Q2070L, S:N450D							D	R		V		Q		LEVEL ||| |
+	BA.5.2.62			B.1.1.529.5.2.62	S:A653V								R		V		Q		LEVEL |||
+	BA.5.2.63			B.1.1.529.5.2.63	G2407A, C2485T, C8752T,  ORF1a:A776V, ORF1a:T1794I, ORF6:Y31C,  	del			N				R	K	V		Q		LEVEL ||| ||
+	BA.5.2.64>BA.5.12
+	BA.5.3			B.1.1.529.5.3	ORF1ab:Q556K								R		V		Q		LEVEL |||
+	BA.5.3.1			B.1.1.529.5.3.1	N:E136D								R		V		Q		LEVEL |||
+	BE.1	(BA.5.3.1.1)		B.1.1.529.5.3.1.1	Orf1b:M1156I								R		V		Q		LEVEL |||
+	BE.1.1	(BA.5.3.1.1.1)		B.1.1.529.5.3.1.1.1	Orf1a:L3829F								R		V		Q		LEVEL |||
+	BE.1.1.1	(BA.5.3.1.1.1.1)		B.1.1.529.5.3.1.1.1.1	S:K444T, ORF9b:S10F				T				R		V		Q		LEVEL ||| |
+Typhon	BQ.1	(BE.1.1.1.1)	(BA.5.3.1.1.1.1.1)	B.1.1.529.5.3.1.1.1.1.1	Orf1b:Y264H, S:N460K				T				R	K	V		Q		LEVEL ||| ||
+Cerberus	BQ.1.1	(BE.1.1.1.1.1)	(BA.5.3.1.1.1.1.1.1)	B.1.1.529.5.3.1.1.1.1.1.1	ORF1b:N1191S, S:R346T		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.1	(BE.1.1.1.1.1.1)	(BA.5.3.1.1.1.1.1.1.1)	B.1.1.529.5.3.1.1.1.1.1.1.1	ORF1b:V1639A		T		T				R	K	V		Q		LEVEL ||| |||
+	CZ.1	(BQ.1.1.1.1)	(BA.5.3.1.1.1.1.1.1.1.1)	B.1.1.529.5.3.1.1.1.1.1.1.1.1	S:F490I		T		T				R	K	V	I	Q		LEVEL ||| ||| |
+	CZ.2	(BQ.1.1.1.2)	(BA.5.3.1.1.1.1.1.1.1.2)	B.1.1.529.5.3.1.1.1.1.1.1.1.2	A29867T, S:A688V		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.2	(BE.1.1.1.1.1.2)	(BA.5.3.1.1.1.1.1.1.2)	B.1.1.529.5.3.1.1.1.1.1.1.2	S:D253G, ORF7a:A13T		T		T				R	K	V		Q		LEVEL ||| |||
+	DU.1	(BQ.1.1.2.1)	(BA.5.3.1.1.1.1.1.1.2.1)	B.1.1.529.5.3.1.1.1.1.1.1.2.1	T10003C, S:E1144Q		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.3	(BE.1.1.1.1.1.3)	(BA.5.3.1.1.1.1.1.1.3)	B.1.1.529.5.3.1.1.1.1.1.1.3	A15111G		T		T				R	K	V		Q		LEVEL ||| |||
+	DR.1	(BQ.1.1.3.1)	(BA.5.3.1.1.1.1.1.1.3.1)	B.1.1.529.5.3.1.1.1.1.1.1.3.1	G22021T, ORF1b:N1191S, S:M153I, S:Y144del	del	T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.4	(BE.1.1.1.1.1.4)	(BA.5.3.1.1.1.1.1.1.4)	B.1.1.529.5.3.1.1.1.1.1.1.4	T29173C		T		T				R	K	V		Q		LEVEL ||| |||
+	EE.1	(BQ.1.1.4.1)	(BA.5.3.1.1.1.1.1.1.4.1)	B.1.1.529.5.3.1.1.1.1.1.1.4.1	N:T366I		T		T				R	K	V		Q		LEVEL ||| |||
+	EE.2	(BQ.1.1.4.2)	(BA.5.3.1.1.1.1.1.1.4.2)	B.1.1.529.5.3.1.1.1.1.1.1.4.2	ORF1b:V1538I		T		T				R	K	V		Q		LEVEL ||| |||
+	EE.3	(BQ.1.1.4.3)	(BA.5.3.1.1.1.1.1.1.4.3)	B.1.1.529.5.3.1.1.1.1.1.1.4.3	C22498T		T		T				R	K	V		Q		LEVEL ||| |||
+	EE.4	(BQ.1.1.4.4)	(BA.5.3.1.1.1.1.1.1.4.4)	B.1.1.529.5.3.1.1.1.1.1.1.4.4	S:Q52H		T		T				R	K	V		Q		LEVEL ||| |||
+	EE.5	(BQ.1.1.4.5)	(BA.5.3.1.1.1.1.1.1.4.5)	B.1.1.529.5.3.1.1.1.1.1.1.4.5	S:N185Y		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.5	(BE.1.1.1.1.1.5)	(BA.5.3.1.1.1.1.1.1.5)	B.1.1.529.5.3.1.1.1.1.1.1.5	ORF1a:V3855I, ORF1b:P2313L		T		T				R	K	V		Q		LEVEL ||| |||
+	DN.1	(BQ.1.1.5.1)	(BA.5.3.1.1.1.1.1.1.5.1)	B.1.1.529.5.3.1.1.1.1.1.1.5.1	C26010T, S:K147N		T		T				R	K	V		Q		LEVEL ||| |||
+	DN.1.1	(BQ.1.1.5.1.1)	(BA.5.3.1.1.1.1.1.1.5.1.1)	B.1.1.529.5.3.1.1.1.1.1.1.5.1.1	ORF1a:R2159W		T		T				R	K	V		Q		LEVEL ||| |||
+	DN.1.1.1	(BQ.1.1.5.1.1.1)	(BA.5.3.1.1.1.1.1.1.5.1.1.1)	B.1.1.529.5.3.1.1.1.1.1.1.5.1.1.1	ORF1a:V721I, ORF1a:N2752S, S:Y453F		T		T				R	K	V		Q		LEVEL ||| |||
+	DN.1.1.2	(BQ.1.1.5.1.1.2)	(BA.5.3.1.1.1.1.1.1.5.1.1.2)	B.1.1.529.5.3.1.1.1.1.1.1.5.1.1.2	C703T, S:P479L		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.6	(BE.1.1.1.1.1.6)	(BA.5.3.1.1.1.1.1.1.6)	B.1.1.529.5.3.1.1.1.1.1.1.6	ORF1a:L681F		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.7	(BE.1.1.1.1.1.7)	(BA.5.3.1.1.1.1.1.1.7)	B.1.1.529.5.3.1.1.1.1.1.1.7	ORF1a:S216Y		T		T				R	K	V		Q		LEVEL ||| |||
+	DK.1	(BQ.1.1.7.1)	(BA.5.3.1.1.1.1.1.1.7.1)	B.1.1.529.5.3.1.1.1.1.1.1.7.1	ORF1a:A1809T, S:G339N		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.8	(BE.1.1.1.1.1.8)	(BA.5.3.1.1.1.1.1.1.8)	B.1.1.529.5.3.1.1.1.1.1.1.8	ORF1a:H374Y, ORF1a:L969F		T		T				R	K	V		Q		LEVEL ||| |||
+	DP.1	(BQ.1.1.8.1)	(BA.5.3.1.1.1.1.1.1.8.1)	B.1.1.529.5.3.1.1.1.1.1.1.8.1	S:A352S		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.9	(BE.1.1.1.1.1.9)	(BA.5.3.1.1.1.1.1.1.9)	B.1.1.529.5.3.1.1.1.1.1.1.9	S:S151I		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.10	(BE.1.1.1.1.1.10)	(BA.5.3.1.1.1.1.1.1.10)	B.1.1.529.5.3.1.1.1.1.1.1.10	T16413C, S:Y144del	del	T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.11	(BE.1.1.1.1.1.11)	(BA.5.3.1.1.1.1.1.1.11)	B.1.1.529.5.3.1.1.1.1.1.1.11	ORF1a:P2537H, S:S494P, ORF8:T87I		T		T				R	K	V		Q	P	LEVEL ||| ||| |
+	BQ.1.1.12	(BE.1.1.1.1.1.12)	(BA.5.3.1.1.1.1.1.1.12)	B.1.1.529.5.3.1.1.1.1.1.1.12	ORF1a:T4368I, S:S494P		T		T				R	K	V		Q	P	LEVEL ||| ||| |
+	BQ.1.1.13	(BE.1.1.1.1.1.13)	(BA.5.3.1.1.1.1.1.1.13)	B.1.1.529.5.3.1.1.1.1.1.1.13	E:V62F, S:Y144del	del	T		T				R	K	V		Q		LEVEL ||| |||
+	EF.1	(BQ.1.1.13.1)	(BA.5.3.1.1.1.1.1.1.13.1)	B.1.1.529.5.3.1.1.1.1.1.1.13.1	C6040T	del	T		T				R	K	V		Q		LEVEL ||| |||
+	EF.1.1	(BQ.1.1.13.1.1)	(BA.5.3.1.1.1.1.1.1.13.1.1)	B.1.1.529.5.3.1.1.1.1.1.1.13.1.1	C23086T, T7783C	del	T		T				R	K	V		Q		LEVEL ||| |||
+	EF.1.1.1	(BQ.1.1.13.1.1.1)	(BA.5.3.1.1.1.1.1.1.13.1.1.1)	B.1.1.529.5.3.1.1.1.1.1.1.13.1.1.1	S:F157L	del	T		T				R	K	V		Q		LEVEL ||| |||
+	EF.1.2	(BQ.1.1.13.1.2)	(BA.5.3.1.1.1.1.1.1.13.1.2)	B.1.1.529.5.3.1.1.1.1.1.1.13.1.2	T15492C	del	T		T				R	K	V		Q		LEVEL ||| |||
+	EF.1.3	(BQ.1.1.13.1.3)	(BA.5.3.1.1.1.1.1.1.13.1.3)	B.1.1.529.5.3.1.1.1.1.1.1.13.1.3	N:T166I	del	T		T				R	K	V		Q		LEVEL ||| |||
+	EF.2	(BQ.1.1.13.2)	(BA.5.3.1.1.1.1.1.1.13.2)	B.1.1.529.5.3.1.1.1.1.1.1.13.2	ORF1b:V119I	del	T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.14	(BE.1.1.1.1.1.14)	(BA.5.3.1.1.1.1.1.1.14)	B.1.1.529.5.3.1.1.1.1.1.1.14	G23608T		T		T				R	K	V		Q		LEVEL ||| |||
+	CW.1	(BQ.1.1.14.1)	(BA.5.3.1.1.1.1.1.1.14.1)	B.1.1.529.5.3.1.1.1.1.1.1.14.1	S:G446S		T		T		S		R	K	V		Q		LEVEL ||| ||| |
+	BQ.1.1.15	(BE.1.1.1.1.1.15)	(BA.5.3.1.1.1.1.1.1.15)	B.1.1.529.5.3.1.1.1.1.1.1.15	T18897C		T		T				R	K	V		Q		LEVEL ||| |||
+	DM.1	(BQ.1.1.15.1)	(BA.5.3.1.1.1.1.1.1.15.1)	B.1.1.529.5.3.1.1.1.1.1.1.15.1	G22604T, S:A348S		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.16	(BE.1.1.1.1.1.16)	(BA.5.3.1.1.1.1.1.1.16)	B.1.1.529.5.3.1.1.1.1.1.1.16	G23383T, S:Q607H		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.17	(BE.1.1.1.1.1.17)	(BA.5.3.1.1.1.1.1.1.17)	B.1.1.529.5.3.1.1.1.1.1.1.17	C7083T, ORF1a:S2273F		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.18	(BE.1.1.1.1.1.18)	(BA.5.3.1.1.1.1.1.1.18)	B.1.1.529.5.3.1.1.1.1.1.1.18	C6541T		T		T				R	K	V		Q		LEVEL ||| |||
+	ED.1	(BQ.1.1.18.1)	(BA.5.3.1.1.1.1.1.1.18.1)	B.1.1.529.5.3.1.1.1.1.1.1.18.1	ORF1a:C433S, ORF3a:L108F		T		T				R	K	V		Q		LEVEL ||| |||
+	ED.2	(BQ.1.1.18.2)	(BA.5.3.1.1.1.1.1.1.18.2)	B.1.1.529.5.3.1.1.1.1.1.1.18.2	ORF1a:D928Y		T		T				R	K	V		Q		LEVEL ||| |||
+	ED.3	(BQ.1.1.18.3)	(BA.5.3.1.1.1.1.1.1.18.3)	B.1.1.529.5.3.1.1.1.1.1.1.18.3	S:D843N		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.19	(BE.1.1.1.1.1.19)	(BA.5.3.1.1.1.1.1.1.19)	B.1.1.529.5.3.1.1.1.1.1.1.19	A29413T, N:Q380H		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.20	(BE.1.1.1.1.1.20)	(BA.5.3.1.1.1.1.1.1.20)	B.1.1.529.5.3.1.1.1.1.1.1.20	ORF3a:H204Y, S:Y144del	del	T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.21	(BE.1.1.1.1.1.21)	(BA.5.3.1.1.1.1.1.1.21)	B.1.1.529.5.3.1.1.1.1.1.1.21	A17946G, N:Q163R, S:Y144del, ORF8:121del	del	T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.22	(BE.1.1.1.1.1.22)	(BA.5.3.1.1.1.1.1.1.22)	B.1.1.529.5.3.1.1.1.1.1.1.22	C913A, S:Y144del	del	T		T				R	K	V		Q		LEVEL ||| |||
+	ER.1	(BQ.1.1.22.1)	(BA.5.3.1.1.1.1.1.1.22.1)	B.1.1.529.5.3.1.1.1.1.1.1.22.1	S:S256P	del	T		T				R	K	V		Q		LEVEL ||| |||
+	ER.1.1	(BQ.1.1.22.1.1)	(BA.5.3.1.1.1.1.1.1.22.1.1)	B.1.1.529.5.3.1.1.1.1.1.1.22.1.1	ORF1a:P361S, S:G257S	del	T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.23	(BE.1.1.1.1.1.23)	(BA.5.3.1.1.1.1.1.1.23)	B.1.1.529.5.3.1.1.1.1.1.1.23	ORF3a:V97I, S:Y144del?	del	T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.24	(BE.1.1.1.1.1.24)	(BA.5.3.1.1.1.1.1.1.24)	B.1.1.529.5.3.1.1.1.1.1.1.24	C11941T, S:Y144del	del	T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.25	(BE.1.1.1.1.1.25)	(BA.5.3.1.1.1.1.1.1.25)	B.1.1.529.5.3.1.1.1.1.1.1.25	G13240A, S:F490S, S:Y144del	del	T		T				R	K	V	S	Q		LEVEL ||| ||| |
+	BQ.1.1.26	(BE.1.1.1.1.1.26)	(BA.5.3.1.1.1.1.1.1.26)	B.1.1.529.5.3.1.1.1.1.1.1.26	S:E471Q, ORF3a:Y107C		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.27	(BE.1.1.1.1.1.27)	(BA.5.3.1.1.1.1.1.1.27)	B.1.1.529.5.3.1.1.1.1.1.1.27	G6421T, S:G181R, ORF1a:F2864L		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.28	(BE.1.1.1.1.1.28)	(BA.5.3.1.1.1.1.1.1.28)	B.1.1.529.5.3.1.1.1.1.1.1.28	C18828T, ORF1b:P976S, S:P251L		T		T				R	K	V		Q		LEVEL ||| |||
+	EH.1	(BQ.1.1.28.1)	(BA.5.3.1.1.1.1.1.1.28.1)	B.1.1.529.5.3.1.1.1.1.1.1.28.1	S:S247N, S:Y248S		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.29	(BE.1.1.1.1.1.29)	(BA.5.3.1.1.1.1.1.1.29)	B.1.1.529.5.3.1.1.1.1.1.1.29	ORF1a:A2529T, S:Q613H		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.30	(BE.1.1.1.1.1.30)	(BA.5.3.1.1.1.1.1.1.30)	B.1.1.529.5.3.1.1.1.1.1.1.30	C12763T, S:V445A		T		T	A			R	K	V		Q		LEVEL ||| ||| |
+	BQ.1.1.31	(BE.1.1.1.1.1.31)	(BA.5.3.1.1.1.1.1.1.31)	B.1.1.529.5.3.1.1.1.1.1.1.31	S:S256L		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.32	(BE.1.1.1.1.1.32)	(BA.5.3.1.1.1.1.1.1.32)	B.1.1.529.5.3.1.1.1.1.1.1.32	G22021A, ORF1b:N1191S, S:M153I, S:Y144del	del	T		T				R	K	V		Q		LEVEL ||| |||
+	DT.1	(BQ.1.1.31.1)	(BA.5.3.1.1.1.1.1.1.32.1)	B.1.1.529.5.3.1.1.1.1.1.1.32.1	S:F494P	del	T		T				R	K	V		Q	P	LEVEL ||| ||| |
+	DT.2	(BQ.1.1.31.2)	(BA.5.3.1.1.1.1.1.1.32.2)	B.1.1.529.5.3.1.1.1.1.1.1.32.2	S:T547K	del	T		T				R	K	V		Q		LEVEL ||| |||
+	DT.3	(BQ.1.1.31.3)	(BA.5.3.1.1.1.1.1.1.32.3)	B.1.1.529.5.3.1.1.1.1.1.1.32.3	S:L176F	del	T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.33>DR.1
+	BQ.1.1.34	(BE.1.1.1.1.1.34)	(BA.5.3.1.1.1.1.1.1.34)	B.1.1.529.5.3.1.1.1.1.1.1.34	S:F494P, S:144-	del	T		T				R	K	V		Q	P	LEVEL ||| ||| |
+	BQ.1.1.35	(BE.1.1.1.1.1.35)	(BA.5.3.1.1.1.1.1.1.35)	B.1.1.529.5.3.1.1.1.1.1.1.35	S:K147E, ORF1a:A1812T		T		T				R	K	V		Q		LEVEL ||| |||
+	ET.1	(BQ.1.1.35.1)	(BA.5.3.1.1.1.1.1.1.35.1)	B.1.1.529.5.3.1.1.1.1.1.1.35.1	T9619C, S:K182N		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.36	(BE.1.1.1.1.1.36)	(BA.5.3.1.1.1.1.1.1.36)	B.1.1.529.5.3.1.1.1.1.1.1.36	S:T883I		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.37	(BE.1.1.1.1.1.37)	(BA.5.3.1.1.1.1.1.1.37)	B.1.1.529.5.3.1.1.1.1.1.1.37	T1453C		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.38	(BE.1.1.1.1.1.38)	(BA.5.3.1.1.1.1.1.1.38)	B.1.1.529.5.3.1.1.1.1.1.1.38	T7633C, S:N856S		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.39	(BE.1.1.1.1.1.39)	(BA.5.3.1.1.1.1.1.1.39)	B.1.1.529.5.3.1.1.1.1.1.1.39	S:K182E, S:Q218H		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.40	(BE.1.1.1.1.1.40)	(BA.5.3.1.1.1.1.1.1.40)	B.1.1.529.5.3.1.1.1.1.1.1.40	N:T24I		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.41	(BE.1.1.1.1.1.41)	(BA.5.3.1.1.1.1.1.1.41)	B.1.1.529.5.3.1.1.1.1.1.1.41	ORF1a:A2529V, S:K182I		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.42	(BE.1.1.1.1.1.42)	(BA.5.3.1.1.1.1.1.1.42)	B.1.1.529.5.3.1.1.1.1.1.1.42	ORF1a:D203N, S:S704L, S:Y144del	del	T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.43	(BE.1.1.1.1.1.43)	(BA.5.3.1.1.1.1.1.1.43)	B.1.1.529.5.3.1.1.1.1.1.1.43	C26292T, S:Q613H, ORF8:F6S		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.44	(BE.1.1.1.1.1.44)	(BA.5.3.1.1.1.1.1.1.44)	B.1.1.529.5.3.1.1.1.1.1.1.44	S:D253G		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.45	(BE.1.1.1.1.1.45)	(BA.5.3.1.1.1.1.1.1.45)	B.1.1.529.5.3.1.1.1.1.1.1.45	S:Y248D		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.46	(BE.1.1.1.1.1.46)	(BA.5.3.1.1.1.1.1.1.46)	B.1.1.529.5.3.1.1.1.1.1.1.46	S:F157L, ORF3a:M5T, S:Y144del	del	T		T				R	K	V		Q		LEVEL ||| |||
+	EN.1	(BQ.1.1.46.1)	(BA.5.3.1.1.1.1.1.1.46.1)	B.1.1.529.5.3.1.1.1.1.1.1.46.1	S:V1264L	del	T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.47	(BE.1.1.1.1.1.47)	(BA.5.3.1.1.1.1.1.1.47)	B.1.1.529.5.3.1.1.1.1.1.1.47	ORF1a:V3197M, S:K147I		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.48	(BE.1.1.1.1.1.48)	(BA.5.3.1.1.1.1.1.1.48)	B.1.1.529.5.3.1.1.1.1.1.1.48	S:H245N		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.49	(BE.1.1.1.1.1.49)	(BA.5.3.1.1.1.1.1.1.49)	B.1.1.529.5.3.1.1.1.1.1.1.49	ORF1a:I652V, S:H1083D		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.50	(BE.1.1.1.1.1.50)	(BA.5.3.1.1.1.1.1.1.50)	B.1.1.529.5.3.1.1.1.1.1.1.50	ORF1a:K669R, ORF1b:T792I, S:Y144-, S:I210-	del	T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.51	(BE.1.1.1.1.1.51)	(BA.5.3.1.1.1.1.1.1.51)	B.1.1.529.5.3.1.1.1.1.1.1.51	ORF3a:L101F		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.52	(BE.1.1.1.1.1.52)	(BA.5.3.1.1.1.1.1.1.52)	B.1.1.529.5.3.1.1.1.1.1.1.52	C6286T		T		T				R	K	V		Q		LEVEL ||| |||
+	EA.1	(BQ.1.1.52.1)	(BA.5.3.1.1.1.1.1.1.52.1)	B.1.1.529.5.3.1.1.1.1.1.1.52.1	ORF8:C102F		T		T				R	K	V		Q		LEVEL ||| |||
+	EA.2	(BQ.1.1.52.2)	(BA.5.3.1.1.1.1.1.1.52.2)	B.1.1.529.5.3.1.1.1.1.1.1.52.2	S:T470I		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.53	(BE.1.1.1.1.1.53)	(BA.5.3.1.1.1.1.1.1.53)	B.1.1.529.5.3.1.1.1.1.1.1.53	S:N185D		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.54	(BE.1.1.1.1.1.54)	(BA.5.3.1.1.1.1.1.1.54)	B.1.1.529.5.3.1.1.1.1.1.1.54	S:F186S, N:A211T		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.55	(BE.1.1.1.1.1.55)	(BA.5.3.1.1.1.1.1.1.55)	B.1.1.529.5.3.1.1.1.1.1.1.55	S:K1149R, S:Y144-	del	T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.56	(BE.1.1.1.1.1.56)	(BA.5.3.1.1.1.1.1.1.56)	B.1.1.529.5.3.1.1.1.1.1.1.56	S:H1101Y		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.57	(BE.1.1.1.1.1.57)	(BA.5.3.1.1.1.1.1.1.57)	B.1.1.529.5.3.1.1.1.1.1.1.57	S:S256A		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.58	(BE.1.1.1.1.1.58)	(BA.5.3.1.1.1.1.1.1.58)	B.1.1.529.5.3.1.1.1.1.1.1.58	S:I934V, S:Y144-	del	T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.59	(BE.1.1.1.1.1.59)	(BA.5.3.1.1.1.1.1.1.59)	B.1.1.529.5.3.1.1.1.1.1.1.59	C29362T, S:Y144-	del	T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.60	(BE.1.1.1.1.1.60)	(BA.5.3.1.1.1.1.1.1.60)	B.1.1.529.5.3.1.1.1.1.1.1.60	S:S691F		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.61	(BE.1.1.1.1.1.61)	(BA.5.3.1.1.1.1.1.1.61)	B.1.1.529.5.3.1.1.1.1.1.1.61	S:P621H		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.62	(BE.1.1.1.1.1.62)	(BA.5.3.1.1.1.1.1.1.62)	B.1.1.529.5.3.1.1.1.1.1.1.62	T17400C, S:P621S		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.63	(BE.1.1.1.1.1.63)	(BA.5.3.1.1.1.1.1.1.63)	B.1.1.529.5.3.1.1.1.1.1.1.63	C18981T, ORF1b:V1852I, S:Y248H		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.64	(BE.1.1.1.1.1.64)	(BA.5.3.1.1.1.1.1.1.64)	B.1.1.529.5.3.1.1.1.1.1.1.64	G1999T, S:F186S		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.65	(BE.1.1.1.1.1.65)	(BA.5.3.1.1.1.1.1.1.65)	B.1.1.529.5.3.1.1.1.1.1.1.65	S:K147I, N:T135I		T		T				R	K	V		Q		LEVEL ||| |||
+	ES.1	(BQ.1.1.65.1)	(BA.5.3.1.1.1.1.1.1.65.1)	B.1.1.529.5.3.1.1.1.1.1.1.65.1	S:Q52R		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.66	(BE.1.1.1.1.1.66)	(BA.5.3.1.1.1.1.1.1.66)	B.1.1.529.5.3.1.1.1.1.1.1.66	T29855C, S:K147N		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.67	(BE.1.1.1.1.1.67)	(BA.5.3.1.1.1.1.1.1.67)	B.1.1.529.5.3.1.1.1.1.1.1.67	ORF1a:T1881I, ORF1a:T2154I, S:L176F		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.68	(BE.1.1.1.1.1.68)	(BA.5.3.1.1.1.1.1.1.68)	B.1.1.529.5.3.1.1.1.1.1.1.68	ORF1a:V1211I		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.69	(BE.1.1.1.1.1.69)	(BA.5.3.1.1.1.1.1.1.69)	B.1.1.529.5.3.1.1.1.1.1.1.69	ORF1b:S2027L		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.70	(BE.1.1.1.1.1.70)	(BA.5.3.1.1.1.1.1.1.70)	B.1.1.529.5.3.1.1.1.1.1.1.70	ORF1a:A903V, M:S212G		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.1.71	(BE.1.1.1.1.1.71)	(BA.5.3.1.1.1.1.1.1.71)	B.1.1.529.5.3.1.1.1.1.1.1.71	G2281A, T25959C, S:G446R, S:Y144-	del	T		T		R		R	K	V		Q		LEVEL ||| ||| |
+	BQ.1.2	(BE.1.1.1.1.2)	(BA.5.3.1.1.1.1.1.2)	B.1.1.529.5.3.1.1.1.1.1.2	S:I666V				T				R	K	V		Q		LEVEL ||| ||
+	BQ.1.2.1	(BE.1.1.1.1.2.1)	(BA.5.3.1.1.1.1.1.2.1)	B.1.1.529.5.3.1.1.1.1.1.2.1	C15960A, N:H300N, S:Y144del	del			T				R	K	V		Q		LEVEL ||| ||
+	BQ.1.3	(BE.1.1.1.1.3)	(BA.5.3.1.1.1.1.1.3)	B.1.1.529.5.3.1.1.1.1.1.3	ORF1a:L3293I, S:E619Q				T				R	K	V		Q		LEVEL ||| ||
+	BQ.1.4	(BE.1.1.1.1.4)	(BA.5.3.1.1.1.1.1.4)	B.1.1.529.5.3.1.1.1.1.1.4	ORF1a:V2665I, S:R190T, N:H300Q				T				R	K	V		Q		LEVEL ||| ||
+	BQ.1.5	(BE.1.1.1.1.5)	(BA.5.3.1.1.1.1.1.5)	B.1.1.529.5.3.1.1.1.1.1.5	ORF1b:T1076I				T				R	K	V		Q		LEVEL ||| ||
+	BQ.1.6	(BE.1.1.1.1.6)	(BA.5.3.1.1.1.1.1.6)	B.1.1.529.5.3.1.1.1.1.1.6	ORF1a:G94C				T				R	K	V		Q		LEVEL ||| ||
+	BQ.1.7	(BE.1.1.1.1.7)	(BA.5.3.1.1.1.1.1.7)	B.1.1.529.5.3.1.1.1.1.1.7	S:L54F				T				R	K	V		Q		LEVEL ||| ||
+	BQ.1.8	(BE.1.1.1.1.8)	(BA.5.3.1.1.1.1.1.8)	B.1.1.529.5.3.1.1.1.1.1.8	ORF1a:S505F, S:Y144del	del			T				R	K	V		Q		LEVEL ||| ||
+	BQ.1.8.1	(BE.1.1.1.1.8.1)	(BA.5.3.1.1.1.1.1.8.1)	B.1.1.529.5.3.1.1.1.1.1.8.1	S:S256L	del			T				R	K	V		Q		LEVEL ||| ||
+	BQ.1.8.2	(BE.1.1.1.1.8.2)	(BA.5.3.1.1.1.1.1.8.2)	B.1.1.529.5.3.1.1.1.1.1.8.2	S:A688V	del			T				R	K	V		Q		LEVEL ||| ||
+	BQ.1.9	(BE.1.1.1.1.9)	(BA.5.3.1.1.1.1.1.9)	B.1.1.529.5.3.1.1.1.1.1.9	ORF1a:V2604I, S:R346T		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.10	(BE.1.1.1.1.10)	(BA.5.3.1.1.1.1.1.10)	B.1.1.529.5.3.1.1.1.1.1.10	C27600T				T				R	K	V		Q		LEVEL ||| ||
+	BQ.1.10.1	(BE.1.1.1.1.10.1)	(BA.5.3.1.1.1.1.1.10.1)	B.1.1.529.5.3.1.1.1.1.1.10.1	ORF1a:E352A, S:H146L				T				R	K	V		Q		LEVEL ||| ||
+	EC.1	(BQ.1.10.1.1)	(BA.5.3.1.1.1.1.1.10.1.1)	B.1.1.529.5.3.1.1.1.1.1.10.1.1	S:Q613H				T				R	K	V		Q		LEVEL ||| ||
+	EC.1.1	(BQ.1.10.1.1.1)	(BA.5.3.1.1.1.1.1.10.1.1.1)	B.1.1.529.5.3.1.1.1.1.1.10.1.1.1	S:V445A, S:Y144-	del			T	A			R	K	V		Q		LEVEL ||| |||
+	BQ.1.10.2	(BE.1.1.1.1.10.2)	(BA.5.3.1.1.1.1.1.10.2)	B.1.1.529.5.3.1.1.1.1.1.10.2	S:T523N				T				R	K	V		Q		LEVEL ||| ||
+	BQ.1.10.3	(BE.1.1.1.1.10.3)	(BA.5.3.1.1.1.1.1.10.3)	B.1.1.529.5.3.1.1.1.1.1.10.3	S:K147E, ORF3a:K16E				T				R	K	V		Q		LEVEL ||| ||
+	BQ.1.11	(BE.1.1.1.1.11)	(BA.5.3.1.1.1.1.1.11)	B.1.1.529.5.3.1.1.1.1.1.11	C29541T				T				R	K	V		Q		LEVEL ||| ||
+	BQ.1.11.1	(BE.1.1.1.1.11.1)	(BA.5.3.1.1.1.1.1.11.1)	B.1.1.529.5.3.1.1.1.1.1.11.1	T24194C, ORF1a:H110Y, ORF1a:E1633D, S:Y144del	del			T				R	K	V		Q		LEVEL ||| ||
+	BQ.1.12	(BE.1.1.1.1.12)	(BA.5.3.1.1.1.1.1.12)	B.1.1.529.5.3.1.1.1.1.1.12	C28849T				T				R	K	V		Q		LEVEL ||| ||
+	BQ.1.13	(BE.1.1.1.1.13)	(BA.5.3.1.1.1.1.1.13)	B.1.1.529.5.3.1.1.1.1.1.13	ORF1a:V627I				T				R	K	V		Q		LEVEL ||| ||
+	BQ.1.13.1	(BE.1.1.1.1.13.1)	(BA.5.3.1.1.1.1.1.13.1)	B.1.1.529.5.3.1.1.1.1.1.13.1	S:F157L, S:Y144del	del			T				R	K	V		Q		LEVEL ||| ||
+	BQ.1.14	(BE.1.1.1.1.14)	(BA.5.3.1.1.1.1.1.14)	B.1.1.529.5.3.1.1.1.1.1.14	C18570A				T				R	K	V		Q		LEVEL ||| ||
+	BQ.1.15	(BE.1.1.1.1.15)	(BA.5.3.1.1.1.1.1.15)	B.1.1.529.5.3.1.1.1.1.1.15	ORF1a:L3116F				T				R	K	V		Q		LEVEL ||| ||
+	BQ.1.15.1	(BE.1.1.1.1.15.1)	(BA.5.3.1.1.1.1.1.15.1)	B.1.1.529.5.3.1.1.1.1.1.15.1	C44T, C17745T				T				R	K	V		Q		LEVEL ||| ||
+	BQ.1.15.2	(BE.1.1.1.1.15.2)	(BA.5.3.1.1.1.1.1.15.2)	B.1.1.529.5.3.1.1.1.1.1.15.2	C6286T				T				R	K	V		Q		LEVEL ||| ||
+	BQ.1.16	(BE.1.1.1.1.16)	(BA.5.3.1.1.1.1.1.16)	B.1.1.529.5.3.1.1.1.1.1.16	ORF1a:A540V				T				R	K	V		Q		LEVEL ||| ||
+	BQ.1.17	(BE.1.1.1.1.17)	(BA.5.3.1.1.1.1.1.17)	B.1.1.529.5.3.1.1.1.1.1.17	S:T444M				M				R	K	V		Q		LEVEL ||| ||
+	BQ.1.18	(BE.1.1.1.1.18)	(BA.5.3.1.1.1.1.1.18)	B.1.1.529.5.3.1.1.1.1.1.18	S:R346T, E:P71S, S:Y144del	del	T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.19	(BE.1.1.1.1.19)	(BA.5.3.1.1.1.1.1.19)	B.1.1.529.5.3.1.1.1.1.1.19	S:S494P				T				R	K	V		Q	P	LEVEL ||| |||
+	BQ.1.20	(BE.1.1.1.1.20)	(BA.5.3.1.1.1.1.1.20)	B.1.1.529.5.3.1.1.1.1.1.20	S:A348S				T				R	K	V		Q		LEVEL ||| ||
+	BQ.1.21	(BE.1.1.1.1.21)	(BA.5.3.1.1.1.1.1.21)	B.1.1.529.5.3.1.1.1.1.1.21	ORF1a:T2087I, S:R346S, S:Y144del	del	S		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.22	(BE.1.1.1.1.22)	(BA.5.3.1.1.1.1.1.22)	B.1.1.529.5.3.1.1.1.1.1.22	C44T, C26681T, S:R346T		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.23	(BE.1.1.1.1.23)	(BA.5.3.1.1.1.1.1.23)	B.1.1.529.5.3.1.1.1.1.1.23	A2653G, S:Y144del	del			T				R	K	V		Q		LEVEL ||| ||
+	BQ.1.24	(BE.1.1.1.1.24)	(BA.5.3.1.1.1.1.1.24)	B.1.1.529.5.3.1.1.1.1.1.24	S:T240I, S:R346T		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.25	(BE.1.1.1.1.25)	(BA.5.3.1.1.1.1.1.25)	B.1.1.529.5.3.1.1.1.1.1.25	S:R346T, T8038C, T25569C, G26031A		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.25.1	(BE.1.1.1.1.25.1)	(BA.5.3.1.1.1.1.1.25.1)	B.1.1.529.5.3.1.1.1.1.1.25.1	S:L858I, ORF3a:A54V		T		T				R	K	V		Q		LEVEL ||| |||
+	BQ.1.26	(BE.1.1.1.1.26)	(BA.5.3.1.1.1.1.1.26)	B.1.1.529.5.3.1.1.1.1.1.26	ORF3a:I169V, E:R61L, S:Y144del	del			T				R	K	V		Q		LEVEL ||| ||
+	BQ.1.26.1	(BE.1.1.1.1.26.1)	(BA.5.3.1.1.1.1.1.26.1)	B.1.1.529.5.3.1.1.1.1.1.26.1	G17721T, ORF1a:S248N	del			T				R	K	V		Q		LEVEL ||| ||
+	BQ.1.27	(BE.1.1.1.1.27)	(BA.5.3.1.1.1.1.1.27)	B.1.1.529.5.3.1.1.1.1.1.27	T29599C, S:V445A				T	A			R	K	V		Q		LEVEL ||| |||
+	BQ.1.28	(BE.1.1.1.1.28)	(BA.5.3.1.1.1.1.1.28)	B.1.1.529.5.3.1.1.1.1.1.28	C25096T, ORF1a:V2157I				T				R	K	V		Q		LEVEL ||| ||
+	BQ.1.29	(BE.1.1.1.1.29)	(BA.5.3.1.1.1.1.1.29)	B.1.1.529.5.3.1.1.1.1.1.29	S:E554Q				T				R	K	V		Q		LEVEL ||| ||
+	BQ.1.30	(BE.1.1.1.1.30)	(BA.5.3.1.1.1.1.1.30)	B.1.1.529.5.3.1.1.1.1.1.30	A10621G, T16635C, S:V445A				T	A			R	K	V		Q		LEVEL ||| |||
+	BQ.1.31	(BE.1.1.1.1.31)	(BA.5.3.1.1.1.1.1.31)	B.1.1.529.5.3.1.1.1.1.1.31	S:K147E				T				R	K	V		Q		LEVEL ||| ||
+	BQ.1.32	(BE.1.1.1.1.32)	(BA.5.3.1.1.1.1.1.32)	B.1.1.529.5.3.1.1.1.1.1.32	C4084T, S:Y248S				T				R	K	V		Q		LEVEL ||| ||
+	BQ.2	(BE.1.1.1.2)	(BA.5.3.1.1.1.1.2)	B.1.1.529.5.3.1.1.1.1.2	S:A522P				T				R		V		Q		LEVEL ||| |
+	BE.1.1.2	(BA.5.3.1.1.1.2)		B.1.1.529.5.3.1.1.1.2	ORF9b:S50L								R		V		Q		LEVEL |||
+	CC.1	(BE.1.1.2.1)	(BA.5.3.1.1.1.2.1)	B.1.1.529.5.3.1.1.1.2.1	ORF1a:K1202N, S:N450D							D	R		V		Q		LEVEL ||| |
+	BE.1.2	(BA.5.3.1.1.2)		B.1.1.529.5.3.1.1.2	S:R346T		T						R		V		Q		LEVEL ||| |
+	BE.1.2.1	(BA.5.3.1.1.2.1)		B.1.1.529.5.3.1.1.2.1	ORF1a:F678L, S:V445A		T			A			R		V		Q		LEVEL ||| ||
+	DW.1	(BE.1.2.1.1)	(BA.5.3.1.1.2.1.1)	B.1.1.529.5.3.1.1.2.1.1	C1102T, ORF1a:T2836I, S:N460S		T			A			R	S	V		Q		LEVEL ||| |||
+	BE.1.3	(BA.5.3.1.1.3)		B.1.1.529.5.3.1.1.3	S:M153I, S:E1258Q, N:P151L								R		V		Q		LEVEL |||
+	BE.1.4	(BA.5.3.1.1.4)		B.1.1.529.5.3.1.1.4	ORF1b:V1787I								R		V		Q		LEVEL |||
+	BE.1.4.1	(BA.5.3.1.1.4.1)		B.1.1.529.5.3.1.1.4.1	S:A701V								R		V		Q		LEVEL |||
+	BE.1.4.2	(BA.5.3.1.1.4.2)		B.1.1.529.5.3.1.1.4.2	ORF1a:I3341T, ORF1b:K2557R, S:R346T		T						R		V		Q		LEVEL ||| |
+	BE.1.4.3	(BA.5.3.1.1.4.3)		B.1.1.529.5.3.1.1.4.3	S:V445A, ORF3a:P240L, ORF9b:P51L					A			R		V		Q		LEVEL ||| |
+	BE.1.4.4	(BA.5.3.1.1.4.4)		B.1.1.529.5.3.1.1.4.4	S:L176F								R		V		Q		LEVEL |||
+	BE.2	(BA.5.3.1.2)		B.1.1.529.5.3.1.2	Orf1a:T882I								R		V		Q		LEVEL |||
+	BE.3	(BA.5.3.1.3)		B.1.1.529.5.3.1.3	ORF1b:Y1247C, N:P151S								R		V		Q		LEVEL |||
+	BE.4	(BA.5.3.1.4)		B.1.1.529.5.3.1.4	ORF1a:T3308N								R		V		Q		LEVEL |||
+	BE.4.1	(BA.5.3.1.4.1)		B.1.1.529.5.3.1.4.1	ORF1a:T1168I, S:P209L, S:R346T		T						R		V		Q		LEVEL ||| |
+	BE.4.1.1	(BA.5.3.1.4.1.1)		B.1.1.529.5.3.1.4.1.1	S:K444R		T		R				R		V		Q		LEVEL ||| ||
+	CQ.1	(BE.4.1.1.1)	(BA.5.3.1.4.1.1.1)	B.1.1.529.5.3.1.4.1.1.1	C11866T, S:Y144del	del	T		R				R		V		Q		LEVEL ||| ||
+	CQ.1.1	(BE.4.1.1.1.1)	(BA.5.3.1.4.1.1.1.1)	B.1.1.529.5.3.1.4.1.1.1.1	S:A262S	del	T		R				R		V		Q		LEVEL ||| ||
+	CQ.2	(BE.4.1.1.2)	(BA.5.3.1.4.1.1.2)	B.1.1.529.5.3.1.4.1.1.2	ORF1a:H1141Y, S:V445A, S:144del	del	T		R	A			R		V		Q		LEVEL ||| |||
+	BE.4.2	(BA.5.3.1.4.2)		B.1.1.529.5.3.1.4.2	S:K444N, S:N460K, ORF9b:A57V				N				R	K	V		Q		LEVEL ||| ||
+	BE.5	(BA.5.3.1.5)		B.1.1.529.5.3.1.5	T28693C, S:R346T		T						R		V		Q		LEVEL ||| |
+	BE.6	(BA.5.3.1.6)		B.1.1.529.5.3.1.6	S:T346S		S						R		V		Q		LEVEL ||| |
+	BE.7	(BA.5.3.1.7)		B.1.1.529.5.3.1.7	S:R346T		T						R		V		Q		LEVEL ||| |
+	BE.8	(BA.5.3.1.8)		B.1.1.529.5.3.1.8	S:R346T, ORF3a:P240S, ORF7a:K119*		T						R		V		Q		LEVEL ||| |
+	BE.9	(BA.5.3.1.9)		B.1.1.529.5.3.1.9	S:K444T, S:N460K, S:Y144del	del			T				R	K	V		Q		LEVEL ||| ||
+	BE.10	(BA.5.3.1.10)		B.1.1.529.5.3.1.10	ORF1a:S74L, ORF1a:S2822F, ORF1a:M3911T,  S:K444T, S:N460K, 				T				R	K	V		Q		LEVEL ||| ||
+	BA.5.3.5			B.1.1.529.5.3.5	S:R346T, C13252T		T						R		V		Q		LEVEL ||| |
+	BA.5.5			B.1.1.529.5.5	S:T76I								R		V		Q		LEVEL |||
+	BA.5.5.3			B.1.1.529.5.5.3	ORF1a:V3166F, ORF1b:L314R								R		V		Q		LEVEL |||
+	BA.5.6			B.1.1.529.5.6	ORF1b:A1312V, ORF1b:T2537I								R		V		Q		LEVEL |||
+	BA.5.6.2			B.1.1.529.5.6.2	S:K444T				T				R		V		Q		LEVEL ||| |
+	BW.1	(BA.5.6.2.1)		B.1.1.529.5.6.2.1	ORF1a:V627I, S:N460K				T				R	K	V		Q		LEVEL ||| ||
+	BW.1.1	(BA.5.6.2.1.1)		B.1.1.529.5.6.2.1.1	S:V486A, S:Y144del	del			T				R	K	A		Q		LEVEL ||| ||
+	BW.1.1.1	(BA.5.6.2.1.1.1)		B.1.1.529.5.6.2.1.1.1	ORF1a:L864F	del			T				R	K	A		Q		LEVEL ||| ||
+	BW.1.1.2	(BA.5.6.2.1.1.2)		B.1.1.529.5.6.2.1.1.2	ORF1b:P1101S	del			T				R	K	A		Q		LEVEL ||| ||
+	BW.1.2	(BA.5.6.2.1.2)		B.1.1.529.5.6.2.1.2	ORF1a:I1551V, S:R346S, S:Y144del	del	S		T				R	K	V		Q		LEVEL ||| |||
+	BA.5.6.3			B.1.1.529.5.6.3	S:R346T, ORF1b:M1839I		T						R		V		Q		LEVEL ||| |
+	BA.5.6.4			B.1.1.529.5.6.4	T979A, A22598G, G22599A, S:R346E		E						R		V		Q		LEVEL ||| |
+	BA.5.10			B.1.1.529.5.10	ORF1a:R207C, ORF1a:Q3922R, S:A262S, E:S50G								R		V		Q		LEVEL |||
+	BA.5.10.1			B.1.1.529.5.10.1	ORF1b:T2432I, S:R346T		T						R		V		Q		LEVEL ||| |
+	DF.1	(BA.5.10.1.1)		B.1.1.529.5.10.1.1	T13794C, ORF1a:Q1198R, S:Y144del	del	T						R		V		Q		LEVEL ||| |
+	DF.1.1	(BA.5.10.1.1.1)		B.1.1.529.5.10.1.1.1	C15738T, S:V445A, ORF8:A51V	del	T			A			R		V		Q		LEVEL ||| ||
+	BA.5.11			B.1.1.529.5.11	C1627T, S:R346T, ORF7a:E95G		T						R		V		Q		LEVEL ||| |
+	BA.5.12			B.1.1.529.5.12	C3688T, ORF1a:T346I		T						R		V		Q		LEVEL ||| |
+	XAY	AY.45(Delta)	BA.4/5*	AY.45 x BA.4/5*	S:R21G, S:P621S, S:A706V						D		R		P		Q		LEVEL ||| |
+	XAY.1				S:D253G						D		R		P		Q		LEVEL ||| |
+	XAY.1.1				ORF1a:K2108N, S:R346T		T				D		R		P		Q		LEVEL ||| ||
+	XAY.1.1.1				S:D1153Y		T				D		R		P		Q		LEVEL ||| ||
+	XAY.1.2				ORF1a:T3646I						D		R		P		Q		LEVEL ||| |
+	XAY.2				ORF1a:Y3765C						D		R		P		Q		LEVEL ||| |
+	XAY.2.1				N:T24A						D		R		P		Q		LEVEL ||| |
+	XAY.2.2				ORF1a:N447S, ORF7a:S61T(rev						D		R		P		Q		LEVEL ||| |
+	XAY.3				ORF1b:D1869Y						D		R		P		Q		LEVEL ||| |
+Gryphon	XBB	BJ.1 (BA.2.10.1.1)	BM.1.1.1 (BA.2.75.3.1.1.1)	BJ.1 x BM.1.1.1	S:A27S, S:V83A, S:H146Q, S:Q183E, S:G213E,  S:D339H, S:R346T, S:L368I, S:V445P, S:G446S,  S:N460K, S:F486S, S:F490S, S:R493Q,  S:24-26del, S:Y144del	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+Hippogryph	XBB.1				S:G252V	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.1.1				ORF1a:P309L	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.1.2				S:S640F	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.1.3				ORF1a:P2287S, S:A484T	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.1.4				S:T883I, ORF8:G8*	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.1.4.1				G2164A, A23579G, T26160C, S:S673G	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+Kraken	XBB.1.5				S:S486P	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.5.1				S:T573I	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.5.2				S:K147I, S:T284I	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.5.3				S:A411S	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.5.4				S:T883I	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.5.5				S:K1181I	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.5.6				S:V952I	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.5.7				ORF1b:V248F	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	EM.1	(XBB.1.5.7.1)		XBB.1.5.7.1	S:R214L	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.5.8				N:R10Q	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.5.9				N:S327L	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.5.10				S:F456L	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.5.11				ORF1a:G401S	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.5.12				S:T323I	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.5.13				T21880C, G28079T	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	EK.1	(XBB.1.5.13.1)		XBB.1.5.13.1	S:K417S	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	EK.2	(XBB.1.5.13.2)		XBB.1.5.13.2	S:T259I	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.5.14				C2695T	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	EL.1	(XBB.1.5.14.1)		XBB.1.5.14.1	S:Q675H	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.5.15				G15957T	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.5.16				T14766C	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.5.17				C23635T	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.5.18				ORF1a:T2300I	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.5.19				ORF1b:R172C	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.5.20				C9532T	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.5.21				C22945T, ORF1a:K322R	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.5.22				ORF1a:E1498A, S:Q146K	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.5.23				ORF1a:P4220L	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.5.24				C2710T	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.5.25				T10204C, S:K97T	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.5.26				C920T	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	EU.1	(XBB.1.5.26.1)		XBB.1.5.26.1	S:P521S	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	EU.1.1	(XBB.1.5.26.1.1)		XBB.1.5.26.1.1	S:I410V	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.6				ORF1a:C873F, ORF1a:H2520Q, S:Q146K, S:L216F	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.1.7				ORF1a:K1051N, S:V608I	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.1.8				S:186insSGG, C3241T	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.1.9				ORF1a:G1819S, ORF1a:T4175I	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+Hyperion	XBB.1.9.1				C11956T, S:S486P	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.9.2				A16878T, A27507C, S:S486P	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	EG.1	(XBB.1.9.2.1)		XBB.1.9.2.1	S:Q613H, N:L219F	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.9.3				ORF1b:G1568C, ORF1b:G2005S	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.1.9.4				C28603T	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.1.9.5				ORF1a:D629E	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.1.10				S:L5F, S:R403K, S:A852V	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.1.11				C13968A, G16377A	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.1.11.1				S:S486P	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.12				S:Y453F	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.1.13				S:S490P	del	T			P	S			K	S	P	Q		LEVEL ||| ||| |
+	XBB.1.14				S:G75V, S:E554K	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.1.15				ORF1a:A540V, ORF8:G8*	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+Arcturus	XBB.1.16				ORF1b:D1746Y, S:E180V, S:K478R, S:S486P	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.17				T27995C, ORF1a:L469F	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.1.17.1				S:D215H, S:S486P	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.17.2				ORF1a:A698S	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.1.18				A8001G	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.1.18.1				S:S486P	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.19				A10042G, T21363C, S:S486P	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.19.1				S:E554K	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.20				ORF1a:P4312T, ORF3a:A72V	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.1.21				ORF1a:K1247R, S:S486A	del	T			P	S			K	A	S	Q		LEVEL ||| ||| |
+	XBB.1.22				T28297C, S:S486P	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.22.1				S:Y200C	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.22.2				A12316G, C15237T, ORF1a:L3829F	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.23				C29203T, E:S68F	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.1.24				T13704C, S:S486P	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.1.25				C673T, G487T, 28297C	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.1.26				T10663C, 28297C	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.2				S:D253G	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.2.1				S:K764R, ORF3a:D155Y	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.2.2				C29642T, S:Q613H, ORF3a:D155Y	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.2.3				ORF1a:G2091S, S:S486P, S:P521S	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.2.4				S:S486P	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.2.5				S:Q613H	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.2.6				C5144T, T5731A	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.2.7				ORF1a:R3662H	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.3				ORF1b:I1988V	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.3.1				S:Q677R	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.3.2				C8146T, C28054T, S:M177T, ORF8:S54L	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.3.3				ORF1b:A520T, S:V1122L	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.4				ORF1a:G82D, S:K444R, ORF7a:G26S	del	T		R	P	S			K	S	S	Q		LEVEL ||| ||| ||
+	XBB.4.1				ORF1a:N1651K, S:L5F, S:T470N	del	T		R	P	S			K	S	S	Q		LEVEL ||| ||| ||
+	XBB.5				ORF1a:G82D, S:A653V	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.6				C14178T	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.6.1				C14362T, C22792A, C25539T, S:S486P	del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBB.7				S:Q613H	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBB.8				T14574C	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBC	BA.2*	B.1.617.2(Delta)	BA.2* x B.1.617.2 x BA.2* x B.1.617.2	S:P25S, S:N703I	del					S				P		Q		LEVEL |||
+	XBC.1				ORF1a:S391F, S:L452M	del					S		M		P		Q		LEVEL ||| |
+	XBC.1.1				ORF1a:I3619T, ORF8:V114L	del					S		M		P		Q		LEVEL ||| |
+	XBC.1.1.1				G8851T, S:G476S	del					S		M		P		Q		LEVEL ||| |
+	XBC.1.2				T11269C	del					S		M		P		Q		LEVEL ||| |
+	XBC.1.2.1				G188A, T22846C, ORF1b:T132I	del					S		M		P		Q		LEVEL ||| |
+	XBC.1.3				C25614T	del					S		M		P		Q		LEVEL ||| |
+	XBC.1.4				ORF1b:T794P, S:G184S	del					S		M		P		Q		LEVEL ||| |
+	XBC.1.5				ORF1a:T708I, ORF1a:A1997V	del					S		M		P		Q		LEVEL ||| |
+	XBC.1.6				ORF1a:A690V, S:R346S, S:M452R	del					S		M		P		Q		LEVEL ||| |
+	XBC.2				S:K97R	del					S				P		Q		LEVEL |||
+	XBC.2.1				S:K444T	del			T		S				P		Q		LEVEL |||
+	XBD	BA.2.75.2	BF.5 (BA.5.2.1.5)	BA.2.75.2 x BF.5	S:A27S, S:K147E, S:W152R, S:F157L, S:I210V,  S:G257S, S:D339H, S:R346T, S:G446S, S:N460K,  S:F486S, S:R493Q, S:A1020S, S:L452L(rev,  S:24-26del		T				S		L	K	S		Q		LEVEL ||| ||
+	XBE	BA.5.2	BE.4.1 (BA.5.3.1.4.1.1)	BA.5.2 x BE.4.1	ORF1b:T1050N,  S:A27S, S:R346T, S:L452R, S:F486V, S:R493Q,		T						R		V		Q		LEVEL ||| |
+Bythos	XBF	BA.5.2.3	CJ.1 (BM.1.1.1.1)	BA.5.2.3 x CJ.1	ORF1a:K120N, ORF1a:V1025A,  ORF1a:L3201F, ORF1a:N4060S,  S:A27S, S:K147E, S:W152R, S:F157L, S:I210V,  S:G257S, S:D339H, S:R346T, S:G446S, S:N460K,  S:F486P, S:F490S, S:R493Q,		T				S			K	P	S	Q		LEVEL ||| |||
+	XBF.1				S:S939F		T				S			K	P	S	Q		LEVEL ||| |||
+	XBF.2				ORF8:V62A		T				S			K	P	S	Q		LEVEL ||| |||
+	XBF.3				T3067C, ORF1a:V274I		T				S			K	P	S	Q		LEVEL ||| |||
+	XBF.4				C4252T, ORF1a:H417Y		T				S			K	P	S	Q		LEVEL ||| |||
+	XBF.5				C2455T 		T				S			K	P	S	Q		LEVEL ||| |||
+	XBF.6				ORF1a:V3986A		T				S			K	P	S	Q		LEVEL ||| |||
+	XBF.7				N:T379I		T				S			K	P	S	Q		LEVEL ||| |||
+	XBF.7.1				ORF1b:Q1878E, S:T323I		T				S			K	P	S	Q		LEVEL ||| |||
+	XBF.8				T9931C, C12970T		T				S			K	P	S	Q		LEVEL ||| |||
+	XBF.8.1				S:P621S		T				S			K	P	S	Q		LEVEL ||| |||
+	XBG	BA.2.76	BA.5.2	BA.2.76 x BA.5.2	ORF1a:L3201F, ORF1a:T3284I,  S:A27S, S:Y248N, S:R346T, S:L452R, S:F486V,  S:R493Q,		T						R		V		Q		LEVEL ||| |
+	XBH	BA.2.3.17	BA.2.75.2	BA.2.3.17 x BA.2.75.2	ORF1b:A88V, S:D1199N		T				S			K	S		Q		LEVEL ||| ||
+	XBJ	BA.2.3.20	BA.5.2	BA.2.3.20 x BA.5.2	ORF1a:C936Y, ORF1a:A2584V				R			D	M	K			Q		LEVEL ||| ||
+	XBJ.1				A16011G				R			D	M	K			Q		LEVEL ||| ||
+	XBJ.1.1				S:G485D, N:R195K				R			D	M	K			Q		LEVEL ||| ||
+	XBJ.2				C22006T				R			D	M	K			Q		LEVEL ||| ||
+	XBJ.3				ORF1a:K2928N				R			D	M	K			Q		LEVEL ||| ||
+	XBJ.4				S:G485D				R			D	M	K			Q		LEVEL ||| ||
+	XBK	BA.5.2	CJ.1 (BM.1.1.1.1)	BA.5.2 x CJ.1			T				S			K	P	S	Q		LEVEL ||| |||
+	XBK.1				S:P1162S		T				S			K	P	S	Q		LEVEL ||| |||
+	XBL	BA.2.75	XBB.1	XBB.1 x BA.2.75 x XBB.1	G3446A, A20379G, C28312T		T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBM	BA.2.76 	BF.3 (BA.5.2.1.3)	BA.2.76 x BF.3	C27549T, G24620T, C23202T, A19812G		T						R		V		Q		LEVEL ||| |
+	XBN	BA.2.75	XBB.3	BA.2.75 x XBB.3	A2863G, C25638T, C19554T	del	T			P	S			K	S	S	Q		LEVEL ||| ||| |
+	XBP	BA.2.75*	BQ.1* (BE.1.1.1.1)	BA.2.75* x BQ.1*	C12952, T23773C, ORF1b:H604Y, S:I210V				T				R	K	V		Q		LEVEL ||| ||
+	XBQ	BA.5.2	CJ.1 (BM.1.1.1.1)	BA.5.2 x CJ.1			T				S			K	P	S	Q		LEVEL ||| |||
+	XBR	BA.2.75*	BQ.1 (BE.1.1.1.1)	BA.2.75* x BQ.1			T		T				R	K	V		Q		LEVEL ||| |||
+	XBS	BA.2.75*	BQ.1 (BE.1.1.1.1)	BA.2.75* x BQ.1			T		T				R	K	V		Q		LEVEL ||| |||
+	XBT	BA.5.2.34	BA.2.75	BA.5.2.34 x BA.2.75 x BA.5.2.34			T						R		V		Q		LEVEL ||| |
+	XBU	BA.2.75.3	BQ.1 (BE.1.1.1.1)	BA.2.75.3 x BQ.1 x BA.2.75.3			T		T				R	K	V		Q		LEVEL ||| |||
+	XBV	CR.1 (BA.5.2.18.1)	XBB.1	CR.1 x XBB.1		del			R			D	M	K			Q		LEVEL ||| ||
+	XBW	XBB.1.5	BQ.1.14	XBB.1.5 x BQ.1.14		del	T			P	S			K	P	S	Q		LEVEL ||| ||| |
+	XBY	BR.2.1 (BA.2.75.4.2.1)	XBF	BR.2.1 x XBF			T				S			K	P	S	Q		LEVEL ||| |||
+
